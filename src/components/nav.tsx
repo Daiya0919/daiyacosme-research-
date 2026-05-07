@@ -15,7 +15,6 @@ export function Nav() {
         <Link href="/" className="flex items-center gap-2">
           <Sparkles className="h-5 w-5 text-rose-500" />
           <span className="font-semibold tracking-tight">DaiyaCosme Research</span>
-          <span className="text-xs text-zinc-500 ml-2 hidden sm:inline">Award再編集 × OEM示唆</span>
         </Link>
         <nav className="flex items-center gap-1">
           {NAV.map((n) => (
