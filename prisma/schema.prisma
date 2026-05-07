@@ -1,0 +1,223 @@
+// DaiyaCosme Research – Prisma schema
+// Postgres推奨。SQLiteで試したい場合は provider="sqlite" に変更し、String[] フィールドを Json に置き換えてください。
+
+generator client {
+  provider      = "prisma-client-js"
+  // native: ローカル開発(Windows/Mac)。rhel-openssl-3.0.x: Vercel/AWSなどLinuxサーバレス向け。
+  binaryTargets = ["native", "rhel-openssl-3.0.x"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// =========================
+//   マスタ
+// =========================
+
+model Award {
+  id          String        @id @default(cuid())
+  name        String        @unique // 例: "@cosmeベストコスメアワード"
+  slug        String        @unique // 例: "atcosme"
+  mediaType   String        // "ugc" | "magazine" | "test_lab" | "ec" | "trade"
+  weight      Float         @default(1.0) // スコア計算で使う媒体重み
+  description String?
+  results     AwardResult[]
+  sources     Source[]
+  createdAt   DateTime      @default(now())
+  updatedAt   DateTime      @updatedAt
+}
+
+model Category {
+  id      String @id @default(cuid())
+  name    String @unique // "化粧水", "美容液" ...
+  slug    String @unique
+  order   Int    @default(0)
+  skus    SKU[]
+}
+
+model Brand {
+  id             String  @id @default(cuid())
+  name           String  @unique
+  normalizedName String  @unique
+  isKorean       Boolean @default(false)
+  isDepacos      Boolean @default(false)
+  isPrestige     Boolean @default(false)
+  isPricey       Boolean @default(false) // プチプラ反対側
+  country        String?
+  skus           SKU[]
+}
+
+// =========================
+//   SKU 本体
+// =========================
+
+model SKU {
+  id             String   @id @default(cuid())
+  name           String
+  normalizedName String   @unique // 表記揺れ統合キー
+  brandId        String
+  brand          Brand    @relation(fields: [brandId], references: [id])
+  categoryId     String
+  category       Category @relation(fields: [categoryId], references: [id])
+  imageUrl       String?  // 商品画像URL（公式 / EC / 媒体）
+  productUrl     String?  // 販売ページURL（楽天 / Amazon / 公式EC）
+  price          Int?
+  volume         String?
+  launchYear     Int?
+  ingredients    String   @default("[]") // JSON配列文字列 ["レチノール", "ナイアシンアミド"]
+  skinConcerns   String   @default("[]") // JSON配列文字列 ["乾燥", "毛穴"]
+  skinTones      String   @default("[]") // JSON配列文字列 ["イエベ春", "ブルベ夏"]
+  trendOrClassic String   @default("unknown") // "trend" | "classic" | "both" | "unknown"
+
+  // スコア（0-100）
+  awardScore           Float @default(0)
+  trendScore           Float @default(0)
+  classicScore         Float @default(0)
+  categoryFitScore     Float @default(0)
+  reviewPowerScore     Float @default(0)
+  ecPowerScore         Float @default(0)
+  expertScore          Float @default(0)
+  testScore            Float @default(0)
+  differentiationScore Float @default(0)
+  marketabilityScore   Float @default(0)
+  totalScore           Float @default(0)
+
+  needsReview          Boolean @default(false)
+
+  awardResults  AwardResult[]
+  rankings      DaiyaCosmeRanking[]
+  analyses      SKUAnalysis[]
+  similarFrom   SimilarSKU[]        @relation("SimilarFrom")
+  similarTo     SimilarSKU[]        @relation("SimilarTo")
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model SimilarSKU {
+  id        String @id @default(cuid())
+  fromId    String
+  toId      String
+  reason    String?
+  from      SKU    @relation("SimilarFrom", fields: [fromId], references: [id], onDelete: Cascade)
+  to        SKU    @relation("SimilarTo", fields: [toId], references: [id], onDelete: Cascade)
+  @@unique([fromId, toId])
+}
+
+// =========================
+//   受賞履歴
+// =========================
+
+model AwardResult {
+  id              String   @id @default(cuid())
+  awardId         String
+  award           Award    @relation(fields: [awardId], references: [id])
+  year            Int
+  awardCategory   String   // 媒体側のカテゴリ名 (例: "スキンケア部門 化粧水")
+  rank            Int?     // 1, 2, 3... 入賞のみで順位なしの場合は null
+  skuId           String
+  sku             SKU      @relation(fields: [skuId], references: [id])
+  comment         String?
+  reason          String?
+  confidenceScore Float    @default(0.5) // 0-1
+  needsReview     Boolean  @default(false)
+  sources         Source[]
+  createdAt       DateTime @default(now())
+
+  @@index([awardId, year])
+  @@index([skuId])
+}
+
+// =========================
+//   出典
+// =========================
+
+model Source {
+  id              String       @id @default(cuid())
+  url             String
+  title           String?
+  awardId         String?
+  award           Award?       @relation(fields: [awardId], references: [id])
+  year            Int?
+  fetchedAt       DateTime     @default(now())
+  rawTextExcerpt  String?
+  reliability     Float        @default(0.5) // 0-1
+  needsReview     Boolean      @default(false)
+  awardResultId   String?
+  awardResult     AwardResult? @relation(fields: [awardResultId], references: [id], onDelete: SetNull)
+
+  @@index([awardId, year])
+  @@unique([url, awardId, year])
+}
+
+// =========================
+//   DaiyaCosme表彰（再編集レイヤー）
+// =========================
+
+model DaiyaCosmeRanking {
+  id                  String   @id @default(cuid())
+  daiyaCosmeAwardType String   // "OVERALL_GRAND" | "TREND" | "CLASSIC" | "INGREDIENT" | "CONCERN" | "TONE" | "VALUE" | "EXPERT" | "EC" | "NEXTGEN"
+  rank                Int
+  skuId               String
+  sku                 SKU      @relation(fields: [skuId], references: [id], onDelete: Cascade)
+  totalScore          Float
+  awardScore          Float
+  trendScore          Float
+  classicScore        Float
+  reviewPowerScore    Float
+  ecPowerScore        Float
+  expertScore         Float
+  testScore           Float
+  reason              String   // AIが生成する選定理由
+  generatedAt         DateTime @default(now())
+
+  @@unique([daiyaCosmeAwardType, rank])
+  @@index([daiyaCosmeAwardType])
+}
+
+// =========================
+//   AI分析
+// =========================
+
+model SKUAnalysis {
+  id                String   @id @default(cuid())
+  skuId             String
+  sku               SKU      @relation(fields: [skuId], references: [id], onDelete: Cascade)
+  whySelling        String   // なぜ売れているのか
+  whoFits           String   // どんな人に合うか
+  trendOrClassic    String
+  developmentHint   String   // 商品開発上の示唆
+  marketGap         String?  // 既存アワードで拾われにくいが市場性のある領域
+  generatedAt       DateTime @default(now())
+  llmProvider       String   @default("mock")
+}
+
+// =========================
+//   リサーチジョブ
+// =========================
+
+model ResearchJob {
+  id          String        @id @default(cuid())
+  status      String        @default("pending") // pending | running | completed | failed
+  params      String        @default("{}") // JSON文字列
+  startedAt   DateTime      @default(now())
+  finishedAt  DateTime?
+  error       String?
+  logs        ResearchLog[]
+  collected   Int           @default(0)
+  needsReview Int           @default(0)
+}
+
+model ResearchLog {
+  id        String      @id @default(cuid())
+  jobId     String
+  job       ResearchJob @relation(fields: [jobId], references: [id], onDelete: Cascade)
+  level     String      @default("info") // info | warn | error
+  message   String
+  payload   String?     // JSON文字列
+  createdAt DateTime    @default(now())
+
+  @@index([jobId])
+}
