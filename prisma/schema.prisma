@@ -61,8 +61,10 @@ model SKU {
   brand          Brand    @relation(fields: [brandId], references: [id])
   categoryId     String
   category       Category @relation(fields: [categoryId], references: [id])
-  imageUrl       String?  // 商品画像URL（公式 / EC / 媒体）
-  productUrl     String?  // 販売ページURL（楽天 / Amazon / 公式EC）
+  imageUrl         String?  // 商品画像URL（公式 / EC / 媒体）
+  productUrl       String?  // 販売ページURL（楽天 / Amazon / 公式EC）
+  manufacturerName String?  // 製造販売元（法人名）例: 資生堂インターナショナル
+  manufacturerUrl  String?  // 製造販売元の @cosme メーカーページURL
   price          Int?
   volume         String?
   launchYear     Int?

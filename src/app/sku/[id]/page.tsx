@@ -58,6 +58,23 @@ export default async function SkuDetail({ params }: { params: { id: string } }) 
               {sku.brand.isPrestige && <Badge variant="info">プレステージ</Badge>}
               {sku.needsReview && <Badge variant="warn">要確認</Badge>}
             </div>
+            {sku.manufacturerName && (
+              <div className="mt-2 text-sm">
+                <span className="text-zinc-500">製造販売元: </span>
+                {sku.manufacturerUrl ? (
+                  <a
+                    href={sku.manufacturerUrl}
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="font-medium text-zinc-800 hover:underline"
+                  >
+                    {sku.manufacturerName}
+                  </a>
+                ) : (
+                  <span className="font-medium text-zinc-800">{sku.manufacturerName}</span>
+                )}
+              </div>
+            )}
             {sku.productUrl && (
               <a
                 href={sku.productUrl}

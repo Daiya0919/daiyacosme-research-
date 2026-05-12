@@ -23,6 +23,7 @@ export async function csvSkuMaster(): Promise<string> {
       "sku_id", "brand_name", "sku_name", "category", "price", "volume",
       "launch_year", "ingredients", "skin_concerns", "skin_tone_fit",
       "trend_or_classic", "total_score",
+      "manufacturer_name", "manufacturer_url",
     ]),
   ];
   for (const s of skus) {
@@ -30,6 +31,7 @@ export async function csvSkuMaster(): Promise<string> {
       s.id, s.brand.name, s.name, s.category.name, s.price ?? "", s.volume ?? "",
       s.launchYear ?? "", asList(s.ingredients).join("|"), asList(s.skinConcerns).join("|"),
       asList(s.skinTones).join("|"), s.trendOrClassic, s.totalScore,
+      s.manufacturerName ?? "", s.manufacturerUrl ?? "",
     ]));
   }
   return BOM + lines.join("\r\n");
