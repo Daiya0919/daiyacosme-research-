@@ -1,0 +1,170 @@
+[
+  {
+    "id": "cmov4urvk0008o1jx5nymf5a4",
+    "name": "化粧水",
+    "slug": "lotion",
+    "order": 3
+  },
+  {
+    "id": "cmov4urvk0009o1jxvu6ysmgx",
+    "name": "日焼け止め",
+    "slug": "sunscreen",
+    "order": 9
+  },
+  {
+    "id": "cmov4urvk000ao1jxzlq0v1rs",
+    "name": "下地",
+    "slug": "makeup-base",
+    "order": 10
+  },
+  {
+    "id": "cmov4urvk000bo1jx7ich2o7p",
+    "name": "パウダー",
+    "slug": "powder",
+    "order": 13
+  },
+  {
+    "id": "cmov4urvk000co1jx0n2ifb3r",
+    "name": "乳液・クリーム",
+    "slug": "milky-lotion-cream",
+    "order": 5
+  },
+  {
+    "id": "cmov4urvk000do1jxtm9jqj2m",
+    "name": "ファンデーション",
+    "slug": "foundation",
+    "order": 11
+  },
+  {
+    "id": "cmov4urvk000eo1jxffnzze9y",
+    "name": "クレンジング",
+    "slug": "cleansing",
+    "order": 1
+  },
+  {
+    "id": "cmov4urvk000fo1jxpq4mw30s",
+    "name": "アイシャドウ",
+    "slug": "eyeshadow",
+    "order": 14
+  },
+  {
+    "id": "cmov4urw7000go1jxs09o8fj7",
+    "name": "マスカラ",
+    "slug": "mascara",
+    "order": 16
+  },
+  {
+    "id": "cmov4urw7000ho1jxlcgfjpec",
+    "name": "美容液",
+    "slug": "serum",
+    "order": 4
+  },
+  {
+    "id": "cmov4urw7000io1jxyu4lxf63",
+    "name": "チーク",
+    "slug": "cheek",
+    "order": 19
+  },
+  {
+    "id": "cmov4urw7000jo1jxmconkr69",
+    "name": "洗顔",
+    "slug": "face-wash",
+    "order": 2
+  },
+  {
+    "id": "cmov4urw7000ko1jx3r64yfcd",
+    "name": "ヘアケア",
+    "slug": "hair-care",
+    "order": 22
+  },
+  {
+    "id": "cmov4urw7000lo1jxt540vxd3",
+    "name": "リップ",
+    "slug": "lip",
+    "order": 20
+  },
+  {
+    "id": "cmov4urw8000mo1jxh0f3pdz4",
+    "name": "ボディケア",
+    "slug": "body-care",
+    "order": 23
+  },
+  {
+    "id": "cmov4urw9000no1jxsoocbtuv",
+    "name": "メンズコスメ",
+    "slug": "mens",
+    "order": 27
+  },
+  {
+    "id": "cmov4urxt000oo1jxxg1t8sx3",
+    "name": "アイライナー",
+    "slug": "eyeliner",
+    "order": 15
+  },
+  {
+    "id": "cmp0hix3700059mt4o2ke664n",
+    "name": "マスク・パック",
+    "slug": "mask-pack",
+    "order": 6
+  },
+  {
+    "id": "cmp0hix3h00069mt4f16jj4f0",
+    "name": "アイケア",
+    "slug": "eye-care",
+    "order": 7
+  },
+  {
+    "id": "cmp0hix3s00079mt44tia3j1w",
+    "name": "リップケア",
+    "slug": "lip-care",
+    "order": 8
+  },
+  {
+    "id": "cmp0hix51000b9mt4017nyx1c",
+    "name": "コンシーラー",
+    "slug": "concealer",
+    "order": 12
+  },
+  {
+    "id": "cmp0hix6m000g9mt41j67mt0a",
+    "name": "アイブロウ",
+    "slug": "eyebrow",
+    "order": 17
+  },
+  {
+    "id": "cmp0hix6y000h9mt4jg8j7ovo",
+    "name": "ハイライト・シェーディング",
+    "slug": "highlight-shading",
+    "order": 18
+  },
+  {
+    "id": "cmp0hix86000k9mt403thwvzn",
+    "name": "ネイル",
+    "slug": "nail",
+    "order": 21
+  },
+  {
+    "id": "cmp0hix93000n9mt4eht7bac0",
+    "name": "フレグランス",
+    "slug": "fragrance",
+    "order": 24
+  },
+  {
+    "id": "cmp0hix9l000o9mt4iz10u3ip",
+    "name": "美容機器",
+    "slug": "beauty-device",
+    "order": 25
+  },
+  {
+    "id": "cmp0hix9v000p9mt4b4dtxkj0",
+    "name": "インナーケア",
+    "slug": "inner-care",
+    "order": 26
+  },
+  {
+    "id": "cmp0hixaj000r9mt4oamz5rq7",
+    "name": "その他",
+    "slug": "other",
+    "order": 99
+  }
+]

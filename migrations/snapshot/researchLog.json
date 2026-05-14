@@ -1,0 +1,810 @@
+[
+  {
+    "id": "cmov7sb4g000293px65nk8bdl",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "provider=mock awards=8 years=2024,2025,2023,2022,2021",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:35.728Z"
+  },
+  {
+    "id": "cmov7sc2p000e93pxjpfqooo5",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"VOCE BEST COSMETICS 2024 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:36.961Z"
+  },
+  {
+    "id": "cmov7scs7000q93pxyo00d0fu",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"VOCE BEST COSMETICS 2025 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:37.879Z"
+  },
+  {
+    "id": "cmov7sdhr001293pxw8nak4xt",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"VOCE BEST COSMETICS 2023 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:38.800Z"
+  },
+  {
+    "id": "cmov7se77001e93pxfyw2a47o",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"VOCE BEST COSMETICS 2022 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:39.715Z"
+  },
+  {
+    "id": "cmov7sewp001q93pxfmqe4tl8",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"VOCE BEST COSMETICS 2021 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:40.633Z"
+  },
+  {
+    "id": "cmov7sfm6002293pxun6fpgs2",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"MAQUIAベストコスメ 2024 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:41.551Z"
+  },
+  {
+    "id": "cmov7sgbo002e93px02ho77xg",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"MAQUIAベストコスメ 2025 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:42.468Z"
+  },
+  {
+    "id": "cmov7sh15002q93pxqbn3350o",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"MAQUIAベストコスメ 2023 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:43.385Z"
+  },
+  {
+    "id": "cmov7shql003293pxosz3r0s6",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"MAQUIAベストコスメ 2022 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:44.302Z"
+  },
+  {
+    "id": "cmov7sig2003e93pxlcuz7xtv",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"MAQUIAベストコスメ 2021 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:45.219Z"
+  },
+  {
+    "id": "cmov7sj5k003q93pxcd2rgjcg",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"WWD Beautyベストコスメ 2024 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:46.136Z"
+  },
+  {
+    "id": "cmov7sjv2004293px6ksmc0zq",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"WWD Beautyベストコスメ 2025 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:47.054Z"
+  },
+  {
+    "id": "cmov7skkk004e93pxmrid5i68",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"WWD Beautyベストコスメ 2023 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:47.972Z"
+  },
+  {
+    "id": "cmov7sla2004q93px33j6l4js",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"WWD Beautyベストコスメ 2022 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:48.891Z"
+  },
+  {
+    "id": "cmov7slzl005293pxuxfrxa35",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"WWD Beautyベストコスメ 2021 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:49.809Z"
+  },
+  {
+    "id": "cmov7smtb005e93pxle4kppaw",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"美的ベストコスメ 2024 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:50.880Z"
+  },
+  {
+    "id": "cmov7sniu005q93pxjsugt1z1",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"美的ベストコスメ 2025 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:51.798Z"
+  },
+  {
+    "id": "cmov7so8c006293pxfih106ka",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"美的ベストコスメ 2023 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:52.717Z"
+  },
+  {
+    "id": "cmov7soxw006e93px5yxri5oz",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"美的ベストコスメ 2022 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:53.637Z"
+  },
+  {
+    "id": "cmov7spnf006q93pxx20p81p5",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"美的ベストコスメ 2021 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:54.555Z"
+  },
+  {
+    "id": "cmov7sr5a007293px2xhkpl8e",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"楽天ベストコスメ 2024 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:56.494Z"
+  },
+  {
+    "id": "cmov7sry3007e93pxj28wh7vs",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"楽天ベストコスメ 2025 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:57.531Z"
+  },
+  {
+    "id": "cmov7ssmt007q93px9zswjrof",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"楽天ベストコスメ 2023 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:58.422Z"
+  },
+  {
+    "id": "cmov7stbk008293px0nm2vaju",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"楽天ベストコスメ 2022 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:18:59.312Z"
+  },
+  {
+    "id": "cmov7su0a008e93pxomo59ukt",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"楽天ベストコスメ 2021 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:19:00.202Z"
+  },
+  {
+    "id": "cmov7sup0008q93pxbdacnc9n",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"@cosmeベストコスメアワード 2024 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:19:01.093Z"
+  },
+  {
+    "id": "cmov7svdr009293pxq3h6gz1w",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"@cosmeベストコスメアワード 2025 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:19:01.983Z"
+  },
+  {
+    "id": "cmov7sw2h009e93pxl5kqhmri",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"@cosmeベストコスメアワード 2023 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:19:02.874Z"
+  },
+  {
+    "id": "cmov7swra009q93pxvkv2l5uy",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"@cosmeベストコスメアワード 2022 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:19:03.767Z"
+  },
+  {
+    "id": "cmov7sxg000a293px4112ayna",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"@cosmeベストコスメアワード 2021 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:19:04.657Z"
+  },
+  {
+    "id": "cmov7sy4q00ae93px99q7tet8",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"LDK the Beauty 2024 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:19:05.547Z"
+  },
+  {
+    "id": "cmov7syth00aq93pxcm2ywzck",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"LDK the Beauty 2025 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:19:06.437Z"
+  },
+  {
+    "id": "cmov7szi800b293pxh05wep56",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"LDK the Beauty 2023 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:19:07.328Z"
+  },
+  {
+    "id": "cmov7t06y00be93pxoybjvs7m",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"LDK the Beauty 2022 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:19:08.218Z"
+  },
+  {
+    "id": "cmov7t0vo00bq93pxnpym8lch",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"LDK the Beauty 2021 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:19:09.108Z"
+  },
+  {
+    "id": "cmov7t1ke00c293px5q8b1i3f",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"LIPSベストコスメ 2024 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:19:09.998Z"
+  },
+  {
+    "id": "cmov7t2d600ce93pxvo68xxd5",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"LIPSベストコスメ 2025 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:19:10.888Z"
+  },
+  {
+    "id": "cmov7t31w00cq93px8aex0inv",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"LIPSベストコスメ 2023 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:19:11.924Z"
+  },
+  {
+    "id": "cmov7t3qm00d293pxiviqvmrb",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"LIPSベストコスメ 2022 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:19:12.814Z"
+  },
+  {
+    "id": "cmov7t4fc00de93px7ryg9kwp",
+    "jobId": "cmov7sanj000093pxg76nl7v2",
+    "level": "info",
+    "message": "query=\"LIPSベストコスメ 2021 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-07T08:19:13.705Z"
+  },
+  {
+    "id": "cmow9s19d00025uvzqeknr0up",
+    "jobId": "cmow9s0sz00005uvzjlalytjs",
+    "level": "info",
+    "message": "provider=mock awards=8 years=2025",
+    "payload": null,
+    "createdAt": "2026-05-08T02:02:08.353Z"
+  },
+  {
+    "id": "cmow9s26g000e5uvz13vsbbf5",
+    "jobId": "cmow9s0sz00005uvzjlalytjs",
+    "level": "info",
+    "message": "query=\"VOCE BEST COSMETICS 2025 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:02:09.544Z"
+  },
+  {
+    "id": "cmow9s2v2000q5uvz5gqkm5q0",
+    "jobId": "cmow9s0sz00005uvzjlalytjs",
+    "level": "info",
+    "message": "query=\"MAQUIAベストコスメ 2025 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:02:10.430Z"
+  },
+  {
+    "id": "cmow9s3jq00125uvzlgsvknxx",
+    "jobId": "cmow9s0sz00005uvzjlalytjs",
+    "level": "info",
+    "message": "query=\"WWD Beautyベストコスメ 2025 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:02:11.318Z"
+  },
+  {
+    "id": "cmow9s48c001e5uvz2topsf40",
+    "jobId": "cmow9s0sz00005uvzjlalytjs",
+    "level": "info",
+    "message": "query=\"美的ベストコスメ 2025 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:02:12.204Z"
+  },
+  {
+    "id": "cmow9s4wz001q5uvz5es6bqs2",
+    "jobId": "cmow9s0sz00005uvzjlalytjs",
+    "level": "info",
+    "message": "query=\"楽天ベストコスメ 2025 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:02:13.091Z"
+  },
+  {
+    "id": "cmow9s5ll00225uvzdxja4tct",
+    "jobId": "cmow9s0sz00005uvzjlalytjs",
+    "level": "info",
+    "message": "query=\"@cosmeベストコスメアワード 2025 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:02:13.977Z"
+  },
+  {
+    "id": "cmow9s6a8002e5uvzoc1myj1f",
+    "jobId": "cmow9s0sz00005uvzjlalytjs",
+    "level": "info",
+    "message": "query=\"LDK the Beauty 2025 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:02:14.864Z"
+  },
+  {
+    "id": "cmow9s6ys002q5uvzysrjoz3h",
+    "jobId": "cmow9s0sz00005uvzjlalytjs",
+    "level": "info",
+    "message": "query=\"LIPSベストコスメ 2025 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:02:15.748Z"
+  },
+  {
+    "id": "cmow9t904002t5uvzqgzycf2x",
+    "jobId": "cmow9t8rz002r5uvz3a44p8vw",
+    "level": "info",
+    "message": "provider=mock awards=8 years=2025,2024",
+    "payload": null,
+    "createdAt": "2026-05-08T02:03:05.044Z"
+  },
+  {
+    "id": "cmow9t9ol00355uvzf0ldmz2u",
+    "jobId": "cmow9t8rz002r5uvz3a44p8vw",
+    "level": "info",
+    "message": "query=\"VOCE BEST COSMETICS 2025 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:03:05.926Z"
+  },
+  {
+    "id": "cmow9tad4003h5uvzcvk1h6gi",
+    "jobId": "cmow9t8rz002r5uvz3a44p8vw",
+    "level": "info",
+    "message": "query=\"VOCE BEST COSMETICS 2024 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:03:06.808Z"
+  },
+  {
+    "id": "cmow9tb1o003t5uvzk1l1umvu",
+    "jobId": "cmow9t8rz002r5uvz3a44p8vw",
+    "level": "info",
+    "message": "query=\"MAQUIAベストコスメ 2025 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:03:07.693Z"
+  },
+  {
+    "id": "cmow9tbqf00455uvz1bvwn705",
+    "jobId": "cmow9t8rz002r5uvz3a44p8vw",
+    "level": "info",
+    "message": "query=\"MAQUIAベストコスメ 2024 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:03:08.584Z"
+  },
+  {
+    "id": "cmow9tcex004h5uvz0bgs5gmv",
+    "jobId": "cmow9t8rz002r5uvz3a44p8vw",
+    "level": "info",
+    "message": "query=\"WWD Beautyベストコスメ 2025 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:03:09.466Z"
+  },
+  {
+    "id": "cmow9td3h004t5uvzu2xgtjol",
+    "jobId": "cmow9t8rz002r5uvz3a44p8vw",
+    "level": "info",
+    "message": "query=\"WWD Beautyベストコスメ 2024 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:03:10.350Z"
+  },
+  {
+    "id": "cmow9tdrz00555uvzjvumnsui",
+    "jobId": "cmow9t8rz002r5uvz3a44p8vw",
+    "level": "info",
+    "message": "query=\"美的ベストコスメ 2025 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:03:11.232Z"
+  },
+  {
+    "id": "cmow9tegi005h5uvznjjq886g",
+    "jobId": "cmow9t8rz002r5uvz3a44p8vw",
+    "level": "info",
+    "message": "query=\"美的ベストコスメ 2024 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:03:12.114Z"
+  },
+  {
+    "id": "cmow9tf4z005t5uvzo546imol",
+    "jobId": "cmow9t8rz002r5uvz3a44p8vw",
+    "level": "info",
+    "message": "query=\"楽天ベストコスメ 2025 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:03:12.996Z"
+  },
+  {
+    "id": "cmow9tfti00655uvz7onay3ok",
+    "jobId": "cmow9t8rz002r5uvz3a44p8vw",
+    "level": "info",
+    "message": "query=\"楽天ベストコスメ 2024 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:03:13.878Z"
+  },
+  {
+    "id": "cmow9tgi0006h5uvz6gl0x6n9",
+    "jobId": "cmow9t8rz002r5uvz3a44p8vw",
+    "level": "info",
+    "message": "query=\"@cosmeベストコスメアワード 2025 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:03:14.760Z"
+  },
+  {
+    "id": "cmow9th6i006t5uvzvm37eg60",
+    "jobId": "cmow9t8rz002r5uvz3a44p8vw",
+    "level": "info",
+    "message": "query=\"@cosmeベストコスメアワード 2024 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:03:15.643Z"
+  },
+  {
+    "id": "cmow9thv100755uvz0ep9i08d",
+    "jobId": "cmow9t8rz002r5uvz3a44p8vw",
+    "level": "info",
+    "message": "query=\"LDK the Beauty 2025 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:03:16.525Z"
+  },
+  {
+    "id": "cmow9tijn007h5uvzr9q69cx2",
+    "jobId": "cmow9t8rz002r5uvz3a44p8vw",
+    "level": "info",
+    "message": "query=\"LDK the Beauty 2024 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:03:17.411Z"
+  },
+  {
+    "id": "cmow9tj85007t5uvzngooulcn",
+    "jobId": "cmow9t8rz002r5uvz3a44p8vw",
+    "level": "info",
+    "message": "query=\"LIPSベストコスメ 2025 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:03:18.293Z"
+  },
+  {
+    "id": "cmow9tjwo00855uvzln18tjvr",
+    "jobId": "cmow9t8rz002r5uvz3a44p8vw",
+    "level": "info",
+    "message": "query=\"LIPSベストコスメ 2024 化粧水 受賞 商品\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-08T02:03:19.177Z"
+  },
+  {
+    "id": "cmp24ob7q0002106agfdlt3me",
+    "jobId": "cmp24oaqk0000106a3pqmuh9b",
+    "level": "info",
+    "message": "provider=mock awards=8 years=2024,2025",
+    "payload": null,
+    "createdAt": "2026-05-12T04:25:53.606Z"
+  },
+  {
+    "id": "cmp24oc68000e106a0vx56vvr",
+    "jobId": "cmp24oaqk0000106a3pqmuh9b",
+    "level": "info",
+    "message": "query=\"VOCE BEST COSMETICS 2024 受賞 商品 ドクダミ\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:25:54.849Z"
+  },
+  {
+    "id": "cmp24ocvw000q106a0hvyybax",
+    "jobId": "cmp24oaqk0000106a3pqmuh9b",
+    "level": "info",
+    "message": "query=\"VOCE BEST COSMETICS 2025 受賞 商品 ドクダミ\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:25:55.773Z"
+  },
+  {
+    "id": "cmp24odlo0012106ac2e9fozm",
+    "jobId": "cmp24oaqk0000106a3pqmuh9b",
+    "level": "info",
+    "message": "query=\"MAQUIAベストコスメ 2024 受賞 商品 ドクダミ\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:25:56.700Z"
+  },
+  {
+    "id": "cmp24oebg001e106a7ob2e8ys",
+    "jobId": "cmp24oaqk0000106a3pqmuh9b",
+    "level": "info",
+    "message": "query=\"MAQUIAベストコスメ 2025 受賞 商品 ドクダミ\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:25:57.629Z"
+  },
+  {
+    "id": "cmp24of14001q106avxoldaer",
+    "jobId": "cmp24oaqk0000106a3pqmuh9b",
+    "level": "info",
+    "message": "query=\"WWD Beautyベストコスメ 2024 受賞 商品 ドクダミ\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:25:58.552Z"
+  },
+  {
+    "id": "cmp24ofqs0022106awpo7iusp",
+    "jobId": "cmp24oaqk0000106a3pqmuh9b",
+    "level": "info",
+    "message": "query=\"WWD Beautyベストコスメ 2025 受賞 商品 ドクダミ\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:25:59.476Z"
+  },
+  {
+    "id": "cmp24oggg002e106azltzfupa",
+    "jobId": "cmp24oaqk0000106a3pqmuh9b",
+    "level": "info",
+    "message": "query=\"美的ベストコスメ 2024 受賞 商品 ドクダミ\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:26:00.401Z"
+  },
+  {
+    "id": "cmp24oh64002q106a11ckh94p",
+    "jobId": "cmp24oaqk0000106a3pqmuh9b",
+    "level": "info",
+    "message": "query=\"美的ベストコスメ 2025 受賞 商品 ドクダミ\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:26:01.324Z"
+  },
+  {
+    "id": "cmp24ohvs0032106aj83e8qun",
+    "jobId": "cmp24oaqk0000106a3pqmuh9b",
+    "level": "info",
+    "message": "query=\"楽天ベストコスメ 2024 受賞 商品 ドクダミ\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:26:02.248Z"
+  },
+  {
+    "id": "cmp24oile003e106aikduqiw6",
+    "jobId": "cmp24oaqk0000106a3pqmuh9b",
+    "level": "info",
+    "message": "query=\"楽天ベストコスメ 2025 受賞 商品 ドクダミ\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:26:03.170Z"
+  },
+  {
+    "id": "cmp24ojb1003q106apuknrcqk",
+    "jobId": "cmp24oaqk0000106a3pqmuh9b",
+    "level": "info",
+    "message": "query=\"@cosmeベストコスメアワード 2024 受賞 商品 ドクダミ\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:26:04.094Z"
+  },
+  {
+    "id": "cmp24ok0r0042106acn119uik",
+    "jobId": "cmp24oaqk0000106a3pqmuh9b",
+    "level": "info",
+    "message": "query=\"@cosmeベストコスメアワード 2025 受賞 商品 ドクダミ\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:26:05.019Z"
+  },
+  {
+    "id": "cmp24okqf004e106ax3rgfuxt",
+    "jobId": "cmp24oaqk0000106a3pqmuh9b",
+    "level": "info",
+    "message": "query=\"LDK the Beauty 2024 受賞 商品 ドクダミ\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:26:05.944Z"
+  },
+  {
+    "id": "cmp24olg2004q106a3h0t1fh6",
+    "jobId": "cmp24oaqk0000106a3pqmuh9b",
+    "level": "info",
+    "message": "query=\"LDK the Beauty 2025 受賞 商品 ドクダミ\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:26:06.867Z"
+  },
+  {
+    "id": "cmp24om5q0052106a0jl1a1wx",
+    "jobId": "cmp24oaqk0000106a3pqmuh9b",
+    "level": "info",
+    "message": "query=\"LIPSベストコスメ 2024 受賞 商品 ドクダミ\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:26:07.790Z"
+  },
+  {
+    "id": "cmp24omzj005e106a7a9pzwyl",
+    "jobId": "cmp24oaqk0000106a3pqmuh9b",
+    "level": "info",
+    "message": "query=\"LIPSベストコスメ 2025 受賞 商品 ドクダミ\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:26:08.864Z"
+  },
+  {
+    "id": "cmp24r7xj005h106apytc0u6i",
+    "jobId": "cmp24r7oz005f106anqutsg6d",
+    "level": "info",
+    "message": "provider=mock awards=8 years=2024,2025",
+    "payload": null,
+    "createdAt": "2026-05-12T04:28:09.319Z"
+  },
+  {
+    "id": "cmp24r8n9005t106ahgtr1rjj",
+    "jobId": "cmp24r7oz005f106anqutsg6d",
+    "level": "info",
+    "message": "query=\"VOCE BEST COSMETICS 2024 受賞 商品 グルタチオン\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:28:10.246Z"
+  },
+  {
+    "id": "cmp24r9cy0065106a81ihw2d7",
+    "jobId": "cmp24r7oz005f106anqutsg6d",
+    "level": "info",
+    "message": "query=\"VOCE BEST COSMETICS 2025 受賞 商品 グルタチオン\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:28:11.171Z"
+  },
+  {
+    "id": "cmp24ra2n006h106aap33qgny",
+    "jobId": "cmp24r7oz005f106anqutsg6d",
+    "level": "info",
+    "message": "query=\"MAQUIAベストコスメ 2024 受賞 商品 グルタチオン\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:28:12.096Z"
+  },
+  {
+    "id": "cmp24rasd006t106aig9lanjd",
+    "jobId": "cmp24r7oz005f106anqutsg6d",
+    "level": "info",
+    "message": "query=\"MAQUIAベストコスメ 2025 受賞 商品 グルタチオン\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:28:13.022Z"
+  },
+  {
+    "id": "cmp24rbi40075106as7f18a6f",
+    "jobId": "cmp24r7oz005f106anqutsg6d",
+    "level": "info",
+    "message": "query=\"WWD Beautyベストコスメ 2024 受賞 商品 グルタチオン\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:28:13.948Z"
+  },
+  {
+    "id": "cmp24rc7q007h106aq0izt30h",
+    "jobId": "cmp24r7oz005f106anqutsg6d",
+    "level": "info",
+    "message": "query=\"WWD Beautyベストコスメ 2025 受賞 商品 グルタチオン\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:28:14.871Z"
+  },
+  {
+    "id": "cmp24rcxd007t106a2sfxvj47",
+    "jobId": "cmp24r7oz005f106anqutsg6d",
+    "level": "info",
+    "message": "query=\"美的ベストコスメ 2024 受賞 商品 グルタチオン\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:28:15.793Z"
+  },
+  {
+    "id": "cmp24rdmz0085106aa0bo5uyo",
+    "jobId": "cmp24r7oz005f106anqutsg6d",
+    "level": "info",
+    "message": "query=\"美的ベストコスメ 2025 受賞 商品 グルタチオン\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:28:16.716Z"
+  },
+  {
+    "id": "cmp24recm008h106an46f86x7",
+    "jobId": "cmp24r7oz005f106anqutsg6d",
+    "level": "info",
+    "message": "query=\"楽天ベストコスメ 2024 受賞 商品 グルタチオン\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:28:17.639Z"
+  },
+  {
+    "id": "cmp24rf29008t106a32f9wy5q",
+    "jobId": "cmp24r7oz005f106anqutsg6d",
+    "level": "info",
+    "message": "query=\"楽天ベストコスメ 2025 受賞 商品 グルタチオン\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:28:18.562Z"
+  },
+  {
+    "id": "cmp24rfrx0095106aetdk4hqh",
+    "jobId": "cmp24r7oz005f106anqutsg6d",
+    "level": "info",
+    "message": "query=\"@cosmeベストコスメアワード 2024 受賞 商品 グルタチオン\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:28:19.485Z"
+  },
+  {
+    "id": "cmp24rghj009h106aj4yqjoj2",
+    "jobId": "cmp24r7oz005f106anqutsg6d",
+    "level": "info",
+    "message": "query=\"@cosmeベストコスメアワード 2025 受賞 商品 グルタチオン\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:28:20.408Z"
+  },
+  {
+    "id": "cmp24rh76009t106a813al7x3",
+    "jobId": "cmp24r7oz005f106anqutsg6d",
+    "level": "info",
+    "message": "query=\"LDK the Beauty 2024 受賞 商品 グルタチオン\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:28:21.330Z"
+  },
+  {
+    "id": "cmp24rhwt00a5106aqnrpz13q",
+    "jobId": "cmp24r7oz005f106anqutsg6d",
+    "level": "info",
+    "message": "query=\"LDK the Beauty 2025 受賞 商品 グルタチオン\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:28:22.253Z"
+  },
+  {
+    "id": "cmp24rimf00ah106af4ycoxdg",
+    "jobId": "cmp24r7oz005f106anqutsg6d",
+    "level": "info",
+    "message": "query=\"LIPSベストコスメ 2024 受賞 商品 グルタチオン\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:28:23.176Z"
+  },
+  {
+    "id": "cmp24rjg900at106anpau7by9",
+    "jobId": "cmp24r7oz005f106anqutsg6d",
+    "level": "info",
+    "message": "query=\"LIPSベストコスメ 2025 受賞 商品 グルタチオン\" hits=5",
+    "payload": null,
+    "createdAt": "2026-05-12T04:28:24.098Z"
+  }
+]

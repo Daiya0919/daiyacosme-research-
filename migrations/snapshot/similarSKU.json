@@ -1,0 +1,80 @@
+[
+  {
+    "id": "cmov4utq600aho1jxghftur6f",
+    "fromId": "cmov4usbh0037o1jxq3rm7o23",
+    "toId": "cmov4us8g002po1jxu60s5b0y",
+    "reason": "同カテゴリ上位"
+  },
+  {
+    "id": "cmov4uts200ajo1jxlqsnpkrr",
+    "fromId": "cmov4usbh0037o1jxq3rm7o23",
+    "toId": "cmov4us500023o1jxa1w232lc",
+    "reason": "同カテゴリ上位"
+  },
+  {
+    "id": "cmov4utt300alo1jxl4zik8pa",
+    "fromId": "cmov4us8g002po1jxu60s5b0y",
+    "toId": "cmov4us500023o1jxa1w232lc",
+    "reason": "同カテゴリ上位"
+  },
+  {
+    "id": "cmov4utu400ano1jxozazbtsv",
+    "fromId": "cmov4us8g002po1jxu60s5b0y",
+    "toId": "cmov4usug0067o1jx3ktjgrza",
+    "reason": "同カテゴリ上位"
+  },
+  {
+    "id": "cmov4utv500apo1jxqi6nk1bl",
+    "fromId": "cmov4us500023o1jxa1w232lc",
+    "toId": "cmov4usug0067o1jx3ktjgrza",
+    "reason": "同カテゴリ上位"
+  },
+  {
+    "id": "cmov4utw400aro1jxav8rbr6d",
+    "fromId": "cmov4urzt001do1jxrdcfcd65",
+    "toId": "cmov4usf3003po1jxok0sppkk",
+    "reason": "同カテゴリ上位"
+  },
+  {
+    "id": "cmov4utx600ato1jx205yeskb",
+    "fromId": "cmov4urzt001do1jxrdcfcd65",
+    "toId": "cmov4usrp005po1jxa93x96ht",
+    "reason": "同カテゴリ上位"
+  },
+  {
+    "id": "cmov4uty800avo1jxbyhceifz",
+    "fromId": "cmov4usf3003po1jxok0sppkk",
+    "toId": "cmov4usrp005po1jxa93x96ht",
+    "reason": "同カテゴリ上位"
+  },
+  {
+    "id": "cmov4utzj00axo1jxmfdpghjc",
+    "fromId": "cmov4usf3003po1jxok0sppkk",
+    "toId": "cmov4ut0b0077o1jxh8nau2le",
+    "reason": "同カテゴリ上位"
+  },
+  {
+    "id": "cmov4uu1100azo1jx1rkcy8di",
+    "fromId": "cmov4usrp005po1jxa93x96ht",
+    "toId": "cmov4ut0b0077o1jxh8nau2le",
+    "reason": "同カテゴリ上位"
+  },
+  {
+    "id": "cmov4uu2500b1o1jx3a4wd1t6",
+    "fromId": "cmov4ut2k007lo1jxwd4iiaka",
+    "toId": "cmov4uslf004po1jxokj1x29m",
+    "reason": "同カテゴリ上位"
+  },
+  {
+    "id": "cmov4uu3700b3o1jx32hngcml",
+    "fromId": "cmov4ut2k007lo1jxwd4iiaka",
+    "toId": "cmov4usib0047o1jxqtykymju",
+    "reason": "同カテゴリ上位"
+  },
+  {
+    "id": "cmov4uu4900b5o1jxt8zt8060",
+    "fromId": "cmov4uslf004po1jxokj1x29m",
+    "toId": "cmov4usib0047o1jxqtykymju",
+    "reason": "同カテゴリ上位"
+  }
+]

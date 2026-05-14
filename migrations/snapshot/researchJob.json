@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cmov7sanj000093pxg76nl7v2",
+    "status": "completed",
+    "params": "{\"years\":[2024,2025,2023,2022,2021],\"awardSlugs\":[\"atcosme\",\"ldk\",\"lips\",\"maquia\",\"voce\",\"wwd\",\"rakuten\",\"biteki\"],\"categories\":[]}",
+    "startedAt": "2026-05-07T08:18:35.119Z",
+    "finishedAt": "2026-05-07T08:19:13.852Z",
+    "error": null,
+    "collected": 200,
+    "needsReview": 200
+  },
+  {
+    "id": "cmow9s0sz00005uvzjlalytjs",
+    "status": "completed",
+    "params": "{\"years\":[2025],\"awardSlugs\":[\"atcosme\",\"ldk\",\"lips\",\"maquia\",\"voce\",\"wwd\",\"rakuten\",\"biteki\"],\"categories\":[\"化粧水\"]}",
+    "startedAt": "2026-05-08T02:02:07.763Z",
+    "finishedAt": "2026-05-08T02:02:15.894Z",
+    "error": null,
+    "collected": 40,
+    "needsReview": 40
+  },
+  {
+    "id": "cmow9t8rz002r5uvz3a44p8vw",
+    "status": "completed",
+    "params": "{\"years\":[2025,2024],\"awardSlugs\":[\"atcosme\",\"ldk\",\"lips\",\"maquia\",\"voce\",\"wwd\",\"rakuten\",\"biteki\"],\"categories\":[\"化粧水\"]}",
+    "startedAt": "2026-05-08T02:03:04.606Z",
+    "finishedAt": "2026-05-08T02:03:19.323Z",
+    "error": null,
+    "collected": 80,
+    "needsReview": 80
+  },
+  {
+    "id": "cmp24oaqk0000106a3pqmuh9b",
+    "status": "completed",
+    "params": "{\"years\":[2024,2025],\"awardSlugs\":[\"atcosme\",\"ldk\",\"lips\",\"maquia\",\"voce\",\"wwd\",\"rakuten\",\"biteki\"],\"categories\":[],\"extraKeyword\":\"ドクダミ\"}",
+    "startedAt": "2026-05-12T04:25:52.988Z",
+    "finishedAt": "2026-05-12T04:26:09.016Z",
+    "error": null,
+    "collected": 80,
+    "needsReview": 80
+  },
+  {
+    "id": "cmp24r7oz005f106anqutsg6d",
+    "status": "completed",
+    "params": "{\"years\":[2024,2025],\"awardSlugs\":[\"atcosme\",\"ldk\",\"lips\",\"maquia\",\"voce\",\"wwd\",\"rakuten\",\"biteki\"],\"categories\":[],\"extraKeyword\":\"グルタチオン\"}",
+    "startedAt": "2026-05-12T04:28:08.859Z",
+    "finishedAt": "2026-05-12T04:28:24.404Z",
+    "error": null,
+    "collected": 80,
+    "needsReview": 80
+  }
+]

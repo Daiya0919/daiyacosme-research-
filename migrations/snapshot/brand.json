@@ -1,0 +1,7132 @@
+[
+  {
+    "id": "cmov4uryh000po1jxf4vax0um",
+    "name": "SK-II",
+    "normalizedName": "skii",
+    "isKorean": false,
+    "isDepacos": true,
+    "isPrestige": true,
+    "isPricey": false,
+    "country": "JP"
+  },
+  {
+    "id": "cmov4uryh000qo1jx2mp6hheu",
+    "name": "DECORTÉ",
+    "normalizedName": "decorté",
+    "isKorean": false,
+    "isDepacos": true,
+    "isPrestige": true,
+    "isPricey": false,
+    "country": "JP"
+  },
+  {
+    "id": "cmov4uryh000ro1jxoof1b87i",
+    "name": "資生堂",
+    "normalizedName": "資生堂",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": true,
+    "isPricey": false,
+    "country": "JP"
+  },
+  {
+    "id": "cmov4uryh000so1jx88vdbx82",
+    "name": "ESTÉE LAUDER",
+    "normalizedName": "estéelauder",
+    "isKorean": false,
+    "isDepacos": true,
+    "isPrestige": true,
+    "isPricey": false,
+    "country": "US"
+  },
+  {
+    "id": "cmov4uryh000to1jxnxyj0m7e",
+    "name": "LANCÔME",
+    "normalizedName": "lancôme",
+    "isKorean": false,
+    "isDepacos": true,
+    "isPrestige": true,
+    "isPricey": false,
+    "country": "FR"
+  },
+  {
+    "id": "cmov4uryh000uo1jxibst9tuo",
+    "name": "ALBION",
+    "normalizedName": "albion",
+    "isKorean": false,
+    "isDepacos": true,
+    "isPrestige": true,
+    "isPricey": false,
+    "country": "JP"
+  },
+  {
+    "id": "cmov4uryh000vo1jxv4v03oiw",
+    "name": "イプサ",
+    "normalizedName": "イプサ",
+    "isKorean": false,
+    "isDepacos": true,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": "JP"
+  },
+  {
+    "id": "cmov4uryh000wo1jxjkwa2dcq",
+    "name": "ナチュリエ",
+    "normalizedName": "ナチュリエ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": "JP"
+  },
+  {
+    "id": "cmov4uryh000xo1jx78elvtbt",
+    "name": "ミノン",
+    "normalizedName": "ミノン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": "JP"
+  },
+  {
+    "id": "cmov4uryz000yo1jx74t4t1t8",
+    "name": "キュレル",
+    "normalizedName": "キュレル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": "JP"
+  },
+  {
+    "id": "cmov4urz4000zo1jxlh9xxoeb",
+    "name": "VT",
+    "normalizedName": "vt",
+    "isKorean": true,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": "KR"
+  },
+  {
+    "id": "cmov4urz40010o1jx4d41jc3g",
+    "name": "ハトムギ",
+    "normalizedName": "ハトムギ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": "JP"
+  },
+  {
+    "id": "cmov4urz40011o1jxbekb6nkp",
+    "name": "無印良品",
+    "normalizedName": "無印良品",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": "JP"
+  },
+  {
+    "id": "cmov4urz40012o1jx7orf5rly",
+    "name": "魅惑のティアラ",
+    "normalizedName": "魅惑のティアラ",
+    "isKorean": true,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": "KR"
+  },
+  {
+    "id": "cmov4urz70013o1jxkhaftxyc",
+    "name": "Anua",
+    "normalizedName": "anua",
+    "isKorean": true,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": "KR"
+  },
+  {
+    "id": "cmov4urz80014o1jxd4pp7u9c",
+    "name": "セザンヌ",
+    "normalizedName": "セザンヌ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": "JP"
+  },
+  {
+    "id": "cmov4urzb0015o1jx5dezy3yn",
+    "name": "rom&nd",
+    "normalizedName": "romnd",
+    "isKorean": true,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": "KR"
+  },
+  {
+    "id": "cmov4urzc0016o1jxhod8w06z",
+    "name": "ケイト",
+    "normalizedName": "ケイト",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": "JP"
+  },
+  {
+    "id": "cmov4urzc0017o1jxfra7qchz",
+    "name": "キャンメイク",
+    "normalizedName": "キャンメイク",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": "JP"
+  },
+  {
+    "id": "cmov4urzf0018o1jx488vf13c",
+    "name": "オペラ",
+    "normalizedName": "オペラ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": "JP"
+  },
+  {
+    "id": "cmov4urzf0019o1jxw0j85woj",
+    "name": "&be",
+    "normalizedName": "be",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": "JP"
+  },
+  {
+    "id": "cmov4urzf001ao1jx2irfigbe",
+    "name": "CLIO",
+    "normalizedName": "clio",
+    "isKorean": true,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": "KR"
+  },
+  {
+    "id": "cmov4urzf001bo1jxe9mt7u8p",
+    "name": "uka",
+    "normalizedName": "uka",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": "JP"
+  },
+  {
+    "id": "cmovdz4uh00074e4mfx8rbd0z",
+    "name": "ランコム",
+    "normalizedName": "ランコム",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdz6w5000s4e4mewwax84q",
+    "name": "エスティ ローダー",
+    "normalizedName": "エスティローダー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdz6z2000z4e4meytvisdx",
+    "name": "イヴ・サンローラン",
+    "normalizedName": "イヴ・サンローラン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdz8mz00164e4mi5q249p5",
+    "name": "ラ ロッシュ ポゼ",
+    "normalizedName": "ラロッシュポゼ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdz8q9001d4e4mnre2m7j4",
+    "name": "ポール ＆ ジョー ボーテ",
+    "normalizedName": "ポールジョーボーテ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzaj4001r4e4m31dwy7vp",
+    "name": "VT COSMETICS",
+    "normalizedName": "vtcosmetics",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzam7001y4e4mprg1cl2k",
+    "name": "MEDIHEAL(メディヒール)",
+    "normalizedName": "medihealメディヒール",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzap000254e4mza51dact",
+    "name": "毛穴撫子",
+    "normalizedName": "毛穴撫子",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzc6u002c4e4mvizvkf2f",
+    "name": "デオナチュレ",
+    "normalizedName": "デオナチュレ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzc9m002j4e4mgnx3eaxt",
+    "name": "エージーデオ24",
+    "normalizedName": "エージーデオ24",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzcck002q4e4mq30e2ot0",
+    "name": "アユーラ",
+    "normalizedName": "アユーラ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzdvo002x4e4mvraxdco7",
+    "name": "シュウ ウエムラ",
+    "normalizedName": "シュウウエムラ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzdyo00344e4mdb7i7utu",
+    "name": "アテニア",
+    "normalizedName": "アテニア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdze1j003b4e4md2ncmer1",
+    "name": "ヒロインメイク",
+    "normalizedName": "ヒロインメイク",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzfjh003i4e4mglsfsu2k",
+    "name": "SABON(サボン)",
+    "normalizedName": "sabonサボン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzfm8003p4e4m7wcncpvl",
+    "name": "KANEBO",
+    "normalizedName": "kanebo",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzfp3003w4e4mfwoc15e5",
+    "name": "ファンケル",
+    "normalizedName": "ファンケル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzhbr00434e4mv285gsrm",
+    "name": "ベネフィーク",
+    "normalizedName": "ベネフィーク",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzhep004a4e4m1t4o60g8",
+    "name": "タカミ",
+    "normalizedName": "タカミ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzhhq004h4e4mus8jpqzp",
+    "name": "クリニーク",
+    "normalizedName": "クリニーク",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzj0g004o4e4mgtgy8swm",
+    "name": "アルビオン",
+    "normalizedName": "アルビオン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzksi00594e4mtivmt8f2",
+    "name": "KIEHL’S SINCE 1851(キールズ)",
+    "normalizedName": "kiehl’ssince1851キールズ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzkzf005n4e4mtles04f0",
+    "name": "Dr.Jart+",
+    "normalizedName": "drjart",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzmw4005u4e4m47ajj5px",
+    "name": "イハダ",
+    "normalizedName": "イハダ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzmzs00614e4m2qhjr3kf",
+    "name": "サンホワイト",
+    "normalizedName": "サンホワイト",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzowr006f4e4m5ghjuopo",
+    "name": "pdc",
+    "normalizedName": "pdc",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzozv006m4e4mf4r1zt5k",
+    "name": "イニスフリー",
+    "normalizedName": "イニスフリー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzp2w006t4e4mdcrj07dy",
+    "name": "DEW",
+    "normalizedName": "dew",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzqnq00704e4m6j4epr3e",
+    "name": "リンクルショット",
+    "normalizedName": "リンクルショット",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzqqt00774e4mfkmxi6n8",
+    "name": "なめらか本舗",
+    "normalizedName": "なめらか本舗",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzqto007e4e4m6dlmufjj",
+    "name": "クラランス",
+    "normalizedName": "クラランス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzsgr007l4e4mzeup98mt",
+    "name": "マジョリカ マジョルカ",
+    "normalizedName": "マジョリカマジョルカ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzsjr007s4e4m96263lj8",
+    "name": "Lashaddict",
+    "normalizedName": "lashaddict",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzsmp007z4e4m69sa6i63",
+    "name": "UZU BY FLOWFUSHI",
+    "normalizedName": "uzubyflowfushi",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzu4h00864e4mhyl9l7o3",
+    "name": "レブロン",
+    "normalizedName": "レブロン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzvy0008r4e4m7x2qtilp",
+    "name": "＆be(アンドビー)",
+    "normalizedName": "beアンドビー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzw12008y4e4mk0csympf",
+    "name": "ニベア",
+    "normalizedName": "ニベア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzw3s00954e4mo5ap8qku",
+    "name": "アネッサ",
+    "normalizedName": "アネッサ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzxp4009c4e4ms32l2qje",
+    "name": "ディオール",
+    "normalizedName": "ディオール",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzxuy009q4e4mlsw0gf0x",
+    "name": "メイベリン ニューヨーク",
+    "normalizedName": "メイベリンニューヨーク",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzzhz009x4e4m657y2u06",
+    "name": "マキアージュ",
+    "normalizedName": "マキアージュ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzzlb00a44e4ml589jtsk",
+    "name": "インテグレート",
+    "normalizedName": "インテグレート",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovdzzom00ab4e4mz5tfw79z",
+    "name": "エレガンス",
+    "normalizedName": "エレガンス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove01gx00ai4e4m64kg3m3i",
+    "name": "ローラ メルシエ",
+    "normalizedName": "ローラメルシエ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove01mj00aw4e4miee05y70",
+    "name": "NARS",
+    "normalizedName": "nars",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove036500b34e4m7bd073ie",
+    "name": "コスメデコルテ",
+    "normalizedName": "コスメデコルテ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove08ar00cu4e4m5y2q74kk",
+    "name": "M・A・C",
+    "normalizedName": "m・a・c",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove08dm00d14e4m350gzazr",
+    "name": "クレ・ド・ポー ボーテ",
+    "normalizedName": "クレ・ド・ポーボーテ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove08ga00d84e4m13zthtga",
+    "name": "ボビイ ブラウン",
+    "normalizedName": "ボビイブラウン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove0a0800df4e4mjalhzcql",
+    "name": "コーセーコスメニエンス",
+    "normalizedName": "コーセーコスメニエンス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove0a5s00dt4e4mmba9wr8z",
+    "name": "d プログラム",
+    "normalizedName": "dプログラム",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove0bqo00e74e4m7exr44x4",
+    "name": "B IDOL(ビー アイドル)",
+    "normalizedName": "bidolビーアイドル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove0f8400fk4e4mmizd1ysy",
+    "name": "トム フォード ビューティ",
+    "normalizedName": "トムフォードビューティ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove0h1f00g54e4m9nejcx1q",
+    "name": "アディクション",
+    "normalizedName": "アディクション",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove0m6q00hp4e4m3nrrhzmh",
+    "name": "msh(エム・エス・エイチ)",
+    "normalizedName": "mshエム・エス・エイチ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove0pld00io4e4mh3ztayua",
+    "name": "デジャヴュ",
+    "normalizedName": "デジャヴュ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove0pqy00j24e4mc27ludzs",
+    "name": "WHOMEE",
+    "normalizedName": "whomee",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove0t5x00k14e4mna5gqc7v",
+    "name": "ビーハニー",
+    "normalizedName": "ビーハニー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove0t8n00k84e4mbjszkz34",
+    "name": "ペリカン石鹸",
+    "normalizedName": "ペリカン石鹸",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove0urk00kf4e4mfugvzreq",
+    "name": "DEOCO(デオコ)",
+    "normalizedName": "deocoデオコ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove0wg600l04e4mh13tfjew",
+    "name": "コラージュ",
+    "normalizedName": "コラージュ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove0wiy00l74e4mq3gcs56a",
+    "name": "PH JAPAN(ピイ・エイチ・ジャパン)",
+    "normalizedName": "phjapanピイ・エイチ・ジャパン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove0wlo00le4e4m7hdoso14",
+    "name": "ARGITAL(アルジタル)",
+    "normalizedName": "argitalアルジタル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove0yf700lz4e4mozn9dhbo",
+    "name": "Aesop(イソップ)",
+    "normalizedName": "aesopイソップ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove100000m64e4m1yd0azi7",
+    "name": "SHISEIDO",
+    "normalizedName": "shiseido",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove105x00mk4e4mf60qq5kq",
+    "name": "アトリックス",
+    "normalizedName": "アトリックス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove11te00my4e4m2bxq9x4l",
+    "name": "ネイルホリック",
+    "normalizedName": "ネイルホリック",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove11wd00n54e4minffihyo",
+    "name": "エクセル",
+    "normalizedName": "エクセル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove13ks00nc4e4mg7y7gzer",
+    "name": "Maison Margiela Fragrances（メゾン マルジェラ フレグランス）",
+    "normalizedName": "maisonmargielafragrancesメゾンマルジェラフレグランス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove13nl00nj4e4mvon7qii9",
+    "name": "ロジェ・ガレ",
+    "normalizedName": "ロジェ・ガレ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove13qe00nq4e4miaj18td9",
+    "name": "Jo Malone London(ジョー マローン ロンドン)",
+    "normalizedName": "jomalonelondonジョーマローンロンドン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove15dj00nx4e4mnuewau34",
+    "name": "&honey（アンドハニー）",
+    "normalizedName": "honeyアンドハニー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove15gg00o44e4m8e091itb",
+    "name": "TSUBAKI",
+    "normalizedName": "tsubaki",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove15j800ob4e4ms2su7t5c",
+    "name": "ディアボーテ",
+    "normalizedName": "ディアボーテ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove179e00ow4e4mehu20691",
+    "name": "プレディア",
+    "normalizedName": "プレディア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove193800p34e4mdcdlv30l",
+    "name": "ロレアル パリ",
+    "normalizedName": "ロレアルパリ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1aqw00po4e4m8kkbbqee",
+    "name": "plus eau（プリュスオー）",
+    "normalizedName": "pluseauプリュスオー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1atp00pv4e4m7h9ix5zw",
+    "name": "Promille",
+    "normalizedName": "promille",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1awh00q24e4m66tnh1lf",
+    "name": "Sign",
+    "normalizedName": "sign",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1csu00q94e4mfw894uen",
+    "name": "syoss(サイオス)",
+    "normalizedName": "syossサイオス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1cwi00qg4e4mi06y1hwu",
+    "name": "リーゼ",
+    "normalizedName": "リーゼ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1czb00qn4e4m8rrg4yfj",
+    "name": "SOMARCA(ソマルカ)",
+    "normalizedName": "somarcaソマルカ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1erd00r84e4m1tj165io",
+    "name": "ハウス オブ ローゼ",
+    "normalizedName": "ハウスオブローゼ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1gd600rf4e4mairvlhcl",
+    "name": "ReFa",
+    "normalizedName": "refa",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1gfw00rm4e4m0gnfsl18",
+    "name": "Panasonic",
+    "normalizedName": "panasonic",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1i3i00s04e4mtaxwabjg",
+    "name": "ザ・コラーゲン",
+    "normalizedName": "ザ・コラーゲン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1i6j00s74e4mievhpwxd",
+    "name": "シノアドア",
+    "normalizedName": "シノアドア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1i9900se4e4mxz6mt2nu",
+    "name": "オルビス",
+    "normalizedName": "オルビス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1ju300sl4e4mta3gca47",
+    "name": "オクチシリーズ",
+    "normalizedName": "オクチシリーズ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1jx100ss4e4m8wmnftfl",
+    "name": "プロポリンス",
+    "normalizedName": "プロポリンス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1jzq00sz4e4mf82xw1ld",
+    "name": "NONIO",
+    "normalizedName": "nonio",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1lqm00td4e4mr2yzc4y3",
+    "name": "BARTH",
+    "normalizedName": "barth",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1ned00tr4e4m23tm2zxe",
+    "name": "ソフィ",
+    "normalizedName": "ソフィ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1nh900ty4e4mhrmbh2ic",
+    "name": "エリス",
+    "normalizedName": "エリス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1p2800uc4e4mwhpfoka7",
+    "name": "ウタマロ",
+    "normalizedName": "ウタマロ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1p5700uj4e4mxc0tvqnk",
+    "name": "パックスナチュロン",
+    "normalizedName": "パックスナチュロン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1p7z00uq4e4m5oiec4wy",
+    "name": "ハイター",
+    "normalizedName": "ハイター",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove1w8o00wh4e4m4a6wuv2u",
+    "name": "ドクターシーラボ",
+    "normalizedName": "ドクターシーラボ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove24yb00z74e4mw6ecfxc6",
+    "name": "RMK",
+    "normalizedName": "rmk",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove251b00ze4e4maph06ws9",
+    "name": "ニュクス",
+    "normalizedName": "ニュクス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove26lp00zl4e4m2utgl0e9",
+    "name": "VT(ブイティー)",
+    "normalizedName": "vtブイティー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove2ak5010y4e4m1suhyg1e",
+    "name": "アンファー",
+    "normalizedName": "アンファー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove2e91012b4e4m7whxbxur",
+    "name": "トランシーノ",
+    "normalizedName": "トランシーノ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove2hl4013h4e4m64fnzknf",
+    "name": "アリィー(ALLIE)",
+    "normalizedName": "アリィーallie",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove2oln015f4e4mbyuqrk3f",
+    "name": "SUQQU(スック)",
+    "normalizedName": "suqquスック",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove2qfh01674e4mwq7uyh2i",
+    "name": "TIRTIR",
+    "normalizedName": "tirtir",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove2tws017k4e4mqbfyr3tx",
+    "name": "ジバンシイ",
+    "normalizedName": "ジバンシイ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove30x8019w4e4m7ofkgr5b",
+    "name": "ルナソル",
+    "normalizedName": "ルナソル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove34ka01b24e4m2kgob89r",
+    "name": "D-UP(ディーアップ)",
+    "normalizedName": "dupディーアップ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove367p01bn4e4m45jbmx97",
+    "name": "I'M MEME",
+    "normalizedName": "immeme",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove3k8801fx4e4m3j8p8v8s",
+    "name": "hadakara",
+    "normalizedName": "hadakara",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove3pqs01hv4e4mlle6noik",
+    "name": "ザーネ",
+    "normalizedName": "ザーネ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove3ptl01i24e4m43hqghe0",
+    "name": "ジルスチュアート",
+    "normalizedName": "ジルスチュアート",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove3rmh01in4e4mnkmfnihq",
+    "name": "ビオレu",
+    "normalizedName": "ビオレu",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove3wpo01k74e4m2fioxjd0",
+    "name": "KUNDAL",
+    "normalizedName": "kundal",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove3yl001ks4e4mtdyfncbg",
+    "name": "フィーノ",
+    "normalizedName": "フィーノ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove422z01m54e4m61p9ogmt",
+    "name": "ザ・プロダクト",
+    "normalizedName": "ザ・プロダクト",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove48ux01o34e4m5ux1sknh",
+    "name": "おいせさん",
+    "normalizedName": "おいせさん",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove4aoe01oo4e4mib7vewg2",
+    "name": "ヤクルト",
+    "normalizedName": "ヤクルト",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove4jl201re4e4msv9xlpgb",
+    "name": "ビフェスタ",
+    "normalizedName": "ビフェスタ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove4l6q01rs4e4mog6f90ir",
+    "name": "メラノCC",
+    "normalizedName": "メラノcc",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove4mwz01s64e4me6mflfjs",
+    "name": "エリクシール",
+    "normalizedName": "エリクシール",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove4or801t54e4mbbang118",
+    "name": "ナリスアップ",
+    "normalizedName": "ナリスアップ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove4qn001tq4e4mgkaez4jq",
+    "name": "トワニー",
+    "normalizedName": "トワニー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove4xia01vv4e4mdg7fr9w0",
+    "name": "ONE BY KOSE",
+    "normalizedName": "onebykose",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove4z6501w94e4m8tf5m84y",
+    "name": "ダーマレーザー",
+    "normalizedName": "ダーマレーザー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove4z8z01wg4e4mb92lqys3",
+    "name": "ルルルン",
+    "normalizedName": "ルルルン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove50wh01x14e4m0kbcjb9l",
+    "name": "LANEIGE(ラネージュ)",
+    "normalizedName": "laneigeラネージュ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove52kk01xf4e4mvv19iox5",
+    "name": "SOFINA iP",
+    "normalizedName": "sofinaip",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove54ef01y74e4mv2owyyto",
+    "name": "水橋保寿堂製薬",
+    "normalizedName": "水橋保寿堂製薬",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove57yz01z64e4mz11svkr8",
+    "name": "ヴィセ",
+    "normalizedName": "ヴィセ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove5dgy021b4e4mcfidht09",
+    "name": "ベアミネラル",
+    "normalizedName": "ベアミネラル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove5s5c025s4e4m6xai0n2v",
+    "name": "Fujiko（フジコ）",
+    "normalizedName": "fujikoフジコ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove618a028p4e4mi0oizprn",
+    "name": "Wonjungyo",
+    "normalizedName": "wonjungyo",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove6bx402ce4e4mxc58x2nz",
+    "name": "i’m meme(アイムミミ)",
+    "normalizedName": "i’mmemeアイムミミ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove6djj02cs4e4mi4s4cg4u",
+    "name": "ケアセラ",
+    "normalizedName": "ケアセラ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove6fcs02dk4e4m00lvruc3",
+    "name": "HACCI(ハッチ)",
+    "normalizedName": "hacciハッチ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove6gyp02dr4e4mb5gkrkh2",
+    "name": "iroha INTIMATE CARE",
+    "normalizedName": "irohaintimatecare",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove6ryo02h94e4mcc8r3all",
+    "name": "エッセンシャル",
+    "normalizedName": "エッセンシャル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove6s4d02hn4e4m9gi82fvl",
+    "name": "mixim（ミクシム）",
+    "normalizedName": "miximミクシム",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove6vi102im4e4mlu1tblme",
+    "name": "シエロ",
+    "normalizedName": "シエロ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove6z2o02jz4e4mla1ig6te",
+    "name": "AVEDA(アヴェダ)",
+    "normalizedName": "avedaアヴェダ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove70qp02kk4e4mw3a9sh7c",
+    "name": "ロージーローザ",
+    "normalizedName": "ロージーローザ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove749m02lc4e4mwr8k5atm",
+    "name": "ITO",
+    "normalizedName": "ito",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove769s02mb4e4mxmqjtaxz",
+    "name": "SPIC（スピック）",
+    "normalizedName": "spicスピック",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove77ue02mi4e4mjk01o972",
+    "name": "アパガード",
+    "normalizedName": "アパガード",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove79qm02na4e4mni30hh7x",
+    "name": "クナイプ",
+    "normalizedName": "クナイプ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove7lrv02qz4e4mfp6yq4aw",
+    "name": "COSRX(コスアールエックス)",
+    "normalizedName": "cosrxコスアールエックス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove7pap02s54e4mrfqym1d2",
+    "name": "HAKU",
+    "normalizedName": "haku",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove7svo02tb4e4mqyo4zgy0",
+    "name": "ゲラン",
+    "normalizedName": "ゲラン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove7utm02ti4e4m1er4skq9",
+    "name": "ナンバーズイン(numbuzin)",
+    "normalizedName": "ナンバーズインnumbuzin",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove7uzo02tw4e4mv5jyn8dl",
+    "name": "Torriden (トリデン)",
+    "normalizedName": "torridenトリデン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove7wnq02ua4e4m7ozgvu2a",
+    "name": "HAP＋R(ハップアール)",
+    "normalizedName": "haprハップアール",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove8hzp031h4e4mdqvftt76",
+    "name": "オバジ",
+    "normalizedName": "オバジ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove94lk03924e4mwwpcb1xl",
+    "name": "Laka",
+    "normalizedName": "laka",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove984s03a84e4mt1x9rsx8",
+    "name": "hince",
+    "normalizedName": "hince",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove9di803bz4e4m9mk0qwvk",
+    "name": "Summer''s Eve(サマーズイブ)",
+    "normalizedName": "summerseveサマーズイブ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove9gx103d54e4mebsrxr6t",
+    "name": "ロクシタン",
+    "normalizedName": "ロクシタン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove9ke903e44e4mp2yq6pl3",
+    "name": "エテュセ",
+    "normalizedName": "エテュセ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove9o2f03f34e4mukdzlxaf",
+    "name": "ボトルワークス",
+    "normalizedName": "ボトルワークス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove9rqz03gn4e4mxsf50tkx",
+    "name": "プリオール",
+    "normalizedName": "プリオール",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmove9tec03h84e4mt2g49hw0",
+    "name": "ケープ",
+    "normalizedName": "ケープ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovea3r903kj4e4mu4bx4e0t",
+    "name": "デンティス",
+    "normalizedName": "デンティス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewc4x0007unf5nhwc8khe",
+    "name": "COREFIT",
+    "normalizedName": "corefit",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewc8x000eunf531vj59pa",
+    "name": "FANCL",
+    "normalizedName": "fancl",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewcg3000sunf5ftafzlbs",
+    "name": "Brighte",
+    "normalizedName": "brighte",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewd5d0021unf5f6iifnqv",
+    "name": "ラブミータッチ",
+    "normalizedName": "ラブミータッチ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewd8v0028unf5fbwq5jx6",
+    "name": "BIOHEAL BOH",
+    "normalizedName": "biohealboh",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewdcg002funf5thhyxbnh",
+    "name": "ドクターケイ",
+    "normalizedName": "ドクターケイ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewdfz002munf5j07zbd5b",
+    "name": "ヴァーナル",
+    "normalizedName": "ヴァーナル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewdwy003dunf5cs0h4g9x",
+    "name": "SPICARE",
+    "normalizedName": "spicare",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmoveweb30045unf549fyui2q",
+    "name": "SNIDEL BEAUTY",
+    "normalizedName": "snidelbeauty",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmoveweem004cunf5ernrus9p",
+    "name": "ロート製薬",
+    "normalizedName": "ロート製薬",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewep1004xunf578xho9u2",
+    "name": "イオニート",
+    "normalizedName": "イオニート",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewesm0054unf5nw5xvb3x",
+    "name": "バイワンシー",
+    "normalizedName": "バイワンシー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewew8005bunf5lkok4p8o",
+    "name": "オルナオーガニック",
+    "normalizedName": "オルナオーガニック",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewf36005punf5lqup3d77",
+    "name": "MG Balm",
+    "normalizedName": "mgbalm",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewf6s005wunf5g1gtd5ay",
+    "name": "ohora",
+    "normalizedName": "ohora",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewfgn0069unf5cdbv19a1",
+    "name": "アキュビュー",
+    "normalizedName": "アキュビュー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewfne006junf5ekyfjjkn",
+    "name": "ダルバ",
+    "normalizedName": "ダルバ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewgbw007cunf5rm01ctli",
+    "name": "Attenir",
+    "normalizedName": "attenir",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewgix007qunf54spkhuv6",
+    "name": "トゥヴェール",
+    "normalizedName": "トゥヴェール",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewgpg0080unf5ulzvcxcq",
+    "name": "shu uemura",
+    "normalizedName": "shuuemura",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewgsv0087unf5u78tyk2v",
+    "name": "ケラスターゼ",
+    "normalizedName": "ケラスターゼ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewh75008zunf5enepsgvr",
+    "name": "CLINIQUE",
+    "normalizedName": "clinique",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewhhg009kunf5nf6mer9d",
+    "name": "LUSH",
+    "normalizedName": "lush",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewhux00a8unf5621b899p",
+    "name": "MEDICUBE",
+    "normalizedName": "medicube",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewhyh00afunf5pno7p9wd",
+    "name": "YA-MAN TOKYO JAPAN",
+    "normalizedName": "yamantokyojapan",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewi8k00awunf5somtl8qq",
+    "name": "d'Alba",
+    "normalizedName": "dalba",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewigk00b6unf5nqvtkhev",
+    "name": "アルマード",
+    "normalizedName": "アルマード",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewik700bdunf5ikt4r7lr",
+    "name": "SHISEIDO MEN",
+    "normalizedName": "shiseidomen",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewixr00c1unf5maa2m1mk",
+    "name": "tsumugi",
+    "normalizedName": "tsumugi",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewj7d00ceunf53xdn169a",
+    "name": "クワトロボタニコ",
+    "normalizedName": "クワトロボタニコ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewjol00ddunf5ooagol7t",
+    "name": "REDEN",
+    "normalizedName": "reden",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewjry00dkunf5w4lrswf0",
+    "name": "＆GINO",
+    "normalizedName": "gino",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewjvg00drunf5mgvs5qow",
+    "name": "BULK HOMME",
+    "normalizedName": "bulkhomme",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovewk2100e1unf55ko8iaue",
+    "name": "VARON",
+    "normalizedName": "varon",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovji3yz000zwu9ui66rppwm",
+    "name": "SUQQU",
+    "normalizedName": "suqqu",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovji4240016wu9ufqgpb1gl",
+    "name": "ポーラ",
+    "normalizedName": "ポーラ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovji47w001kwu9usjvqga21",
+    "name": "クレ・ド・ポー",
+    "normalizedName": "クレ・ド・ポー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovji4pm002qwu9uip6exduv",
+    "name": "カバーマーク",
+    "normalizedName": "カバーマーク",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovji51f003iwu9uueun2121",
+    "name": "ラ・メール",
+    "normalizedName": "ラ・メール",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovji577003wwu9usxozviaf",
+    "name": "ソフィーナ",
+    "normalizedName": "ソフィーナ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovji5p30052wu9uymzrsde5",
+    "name": "HERA",
+    "normalizedName": "hera",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovji5v6005gwu9u46w8bqkf",
+    "name": "エスト",
+    "normalizedName": "エスト",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovji9v70070wu9ugkwhmiea",
+    "name": "雪肌精",
+    "normalizedName": "雪肌精",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjiala008rwu9ud62p9eis",
+    "name": "SENSAI",
+    "normalizedName": "sensai",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjiau5009cwu9u0lswqpyv",
+    "name": "シャネル",
+    "normalizedName": "シャネル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjibc900aiwu9une0d38ub",
+    "name": "オバジX",
+    "normalizedName": "オバジx",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjiivy00c9wu9uu3as8drj",
+    "name": "ALBLANC",
+    "normalizedName": "alblanc",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjiiyy00cgwu9uy8fzz2te",
+    "name": "KATE",
+    "normalizedName": "kate",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjikkq00d1wu9uhdm3sqga",
+    "name": "ジョー マローン ロンドン",
+    "normalizedName": "ジョーマローンロンドン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjiknp00d8wu9uzq00mtlj",
+    "name": "HACCI",
+    "normalizedName": "hacci",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjiktl00dmwu9u158cn205",
+    "name": "ピュオーラ",
+    "normalizedName": "ピュオーラ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjimfg00elwu9uk7mzklbr",
+    "name": "dyson",
+    "normalizedName": "dyson",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjimlp00ezwu9utuqb944k",
+    "name": "セタフィル",
+    "normalizedName": "セタフィル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjimoo00f6wu9uy3bvf4lr",
+    "name": "睡眠美容",
+    "normalizedName": "睡眠美容",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjimrh00fdwu9uv7zpfulo",
+    "name": "クオリティファースト",
+    "normalizedName": "クオリティファースト",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjl6bo00axaz11rakb4rvz",
+    "name": "ダイアン パーフェクトビューティー",
+    "normalizedName": "ダイアンパーフェクトビューティー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjl6h700b9az117z4vlpgn",
+    "name": "LUX",
+    "normalizedName": "lux",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjl7t900bgaz116iojrbfy",
+    "name": "ディセンシア",
+    "normalizedName": "ディセンシア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjla3v00cfaz119nkt2jdi",
+    "name": "デュオ",
+    "normalizedName": "デュオ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjlb8b00ctaz11z2o0opg4",
+    "name": "リサージ",
+    "normalizedName": "リサージ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjldio00dsaz11u63mpj1f",
+    "name": "ビオレUV",
+    "normalizedName": "ビオレuv",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjldlb00dzaz11n0nj7kgm",
+    "name": "アリィー",
+    "normalizedName": "アリィー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovjlfun00eyaz11zemx3nj4",
+    "name": "ラ",
+    "normalizedName": "ラ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk5k8m008hdy7mh0qmxksd",
+    "name": "CHANEL(シャネル)",
+    "normalizedName": "chanelシャネル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk5kc5008ody7m1s5a0hi3",
+    "name": "ホワイトショット",
+    "normalizedName": "ホワイトショット",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk5mcx00afdy7mfozoncvt",
+    "name": "WHOMEE(フーミー)",
+    "normalizedName": "whomeeフーミー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk5mfr00amdy7mho3v8l0c",
+    "name": "Ririmew(リリミュウ)",
+    "normalizedName": "ririmewリリミュウ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk5rzq00bldy7m5a9p70au",
+    "name": "DUO(デュオ)",
+    "normalizedName": "duoデュオ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk5tdh00bsdy7m4znkfydv",
+    "name": "アスタリフト",
+    "normalizedName": "アスタリフト",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk5th000bzdy7mqi2s20sl",
+    "name": "immuno(イミュノ)",
+    "normalizedName": "immunoイミュノ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk5v8p00cydy7mhyudqxb4",
+    "name": "ロクシタン(L&#039;OCCITANE)",
+    "normalizedName": "ロクシタンl039occitane",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk5wp500dcdy7mcigyykev",
+    "name": "ボビイ ブラウン(BOBBI BROWN)",
+    "normalizedName": "ボビイブラウンbobbibrown",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk5y3x00dqdy7mf4lh9rcy",
+    "name": "ディオール(DIOR)",
+    "normalizedName": "ディオールdior",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk5y9r00e4dy7mxux6artn",
+    "name": "エピステーム",
+    "normalizedName": "エピステーム",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk5zoj00ebdy7mhhdmokxb",
+    "name": "ITRIM",
+    "normalizedName": "itrim",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk5zzx00f3dy7mj2do9gec",
+    "name": "ドモホルンリンクル",
+    "normalizedName": "ドモホルンリンクル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk61lf00fvdy7mblijcg7k",
+    "name": "ラ ロッシュ ポゼ(LA ROCHE-POSAY)",
+    "normalizedName": "ラロッシュポゼlarocheposay",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk61oh00g2dy7msp6dqvxw",
+    "name": "イプサ(IPSA)",
+    "normalizedName": "イプサipsa",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk61ra00g9dy7mxzr4quof",
+    "name": "ディセンシア(DECENCIA)",
+    "normalizedName": "ディセンシアdecencia",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk63f300h8dy7mtqputcfo",
+    "name": "SK-II(エスケーツー)",
+    "normalizedName": "skiiエスケーツー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk64yy00htdy7m4hv93wjf",
+    "name": "クラランス(CLARINS)",
+    "normalizedName": "クラランスclarins",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk66bt00i0dy7m45ivm07p",
+    "name": "ランコム(LANCÔME)",
+    "normalizedName": "ランコムlancôme",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk66k800ildy7mvc4dc7by",
+    "name": "ゲラン(Guerlain)",
+    "normalizedName": "ゲランguerlain",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk69mq00jrdy7mcji2yohx",
+    "name": "ドクターシーラボ(Dr.cilabo)",
+    "normalizedName": "ドクターシーラボdrcilabo",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk6azv00jydy7m1yoir21s",
+    "name": "ミノン アミノモイスト",
+    "normalizedName": "ミノンアミノモイスト",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk6cg100kcdy7m5dw8uq0e",
+    "name": "アスタリフトホワイト",
+    "normalizedName": "アスタリフトホワイト",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk6guj00lidy7mqcnjic77",
+    "name": "ローラ メルシエ(LAURA MERCIER)",
+    "normalizedName": "ローラメルシエlauramercier",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk6gxs00lpdy7mgpp8fe5h",
+    "name": "エトヴォス(ETVOS)",
+    "normalizedName": "エトヴォスetvos",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk6ic800lwdy7m8ckgws9p",
+    "name": "アルビオン(ALBION)",
+    "normalizedName": "アルビオンalbion",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk6lg000mody7mayhtovxb",
+    "name": "ジルスチュアート　ビューティ",
+    "normalizedName": "ジルスチュアートビューティ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk6mwx00n2dy7mefr5u60c",
+    "name": "プリマヴィスタ",
+    "normalizedName": "プリマヴィスタ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk6oc500ngdy7momoy5qu1",
+    "name": "エスプリーク",
+    "normalizedName": "エスプリーク",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk6sws00p0dy7mf8w326uu",
+    "name": "THREE(スリー)",
+    "normalizedName": "threeスリー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk6xnm00qkdy7mwr36s9zm",
+    "name": "D-UP",
+    "normalizedName": "dup",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk6xu000qydy7m1jlqbj4c",
+    "name": "ファシオ",
+    "normalizedName": "ファシオ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk72eh00sidy7mxl8c0h41",
+    "name": "ADDICTION",
+    "normalizedName": "addiction",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk72hp00spdy7m9lf2okg9",
+    "name": "ドルチェ＆ガッバーナ ビューティ(DOLCE＆GABBANA BEAUTY)",
+    "normalizedName": "ドルチェガッバーナビューティdolcegabbanabeauty",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk72kw00swdy7m4lu3bcil",
+    "name": "フジコ",
+    "normalizedName": "フジコ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk741p00tady7m8lu7retk",
+    "name": "ダズショップ",
+    "normalizedName": "ダズショップ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk76t900tvdy7mv91zrd1x",
+    "name": "シスレー",
+    "normalizedName": "シスレー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk76w900u2dy7mu5uupary",
+    "name": "アベンヌ",
+    "normalizedName": "アベンヌ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk7cwz00vmdy7mu5cqftc8",
+    "name": "レ・メルヴェイユーズ ラデュレ(Les Merveilleuses LADURÉE)",
+    "normalizedName": "レ・メルヴェイユーズラデュレlesmerveilleusesladurée",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk7d6y00w0dy7mnotyplt0",
+    "name": "リーカ(rihka)",
+    "normalizedName": "リーカrihka",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk7nnc00zwdy7mq52lg75n",
+    "name": "24h cosme",
+    "normalizedName": "24hcosme",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk7qoo010vdy7mhobocej3",
+    "name": "アクセーヌ(acseine)",
+    "normalizedName": "アクセーヌacseine",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk7tu6012mdy7mp3j014vi",
+    "name": "ジョルジオ アルマーニ",
+    "normalizedName": "ジョルジオアルマーニ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk8brr015xdy7mfntfchan",
+    "name": "SHISEIDO　アルティミューン",
+    "normalizedName": "shiseidoアルティミューン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk8ee90164dy7m3a80xy4t",
+    "name": "ソフィーナ iP",
+    "normalizedName": "ソフィーナip",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk8g0w016wdy7mbm1t5ppl",
+    "name": "ヘレナ ルビンスタイン(HELENA RUBINSTEIN)",
+    "normalizedName": "ヘレナルビンスタインhelenarubinstein",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk8g6z017ady7mng6hnu2y",
+    "name": "カバーマーク(COVERMARK)",
+    "normalizedName": "カバーマークcovermark",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk8j5c0189dy7mvu42jtsf",
+    "name": "エスティ ローダー(ESTEE LAUDER)",
+    "normalizedName": "エスティローダーesteelauder",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk8j85018gdy7mvqf55429",
+    "name": "SENSAI(センサイ)",
+    "normalizedName": "sensaiセンサイ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk8ktw0198dy7mow0s1lc0",
+    "name": "米肌～MAIHADA～",
+    "normalizedName": "米肌maihada",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk8kwz019fdy7m1zqe9bpy",
+    "name": "ファンケル(FANCL)",
+    "normalizedName": "ファンケルfancl",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk8m9a019mdy7meuwmreqs",
+    "name": "B.A",
+    "normalizedName": "ba",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk8mca019tdy7m5x0ugpdf",
+    "name": "suisai",
+    "normalizedName": "suisai",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk8mi901a7dy7myi5wkbu4",
+    "name": "EXCIA(エクシア)",
+    "normalizedName": "exciaエクシア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk8ny701aldy7m8o0pp0n4",
+    "name": "カルテHD",
+    "normalizedName": "カルテhd",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk8o1701asdy7mar4l8jqf",
+    "name": "オサジ(OSAJI)",
+    "normalizedName": "オサジosaji",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk8r0q01brdy7myvfa2kjj",
+    "name": "ワフィト",
+    "normalizedName": "ワフィト",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk8veu01cxdy7mdvq4ohn6",
+    "name": "CANADEL(カナデル)",
+    "normalizedName": "canadelカナデル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk8zin01didy7mzq3pti3u",
+    "name": "ON&DO(オンアンドドゥー)",
+    "normalizedName": "ondoオンアンドドゥー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk8zln01dpdy7m63aj158s",
+    "name": "アクアレーベル",
+    "normalizedName": "アクアレーベル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk95gi01fgdy7monfeuzxg",
+    "name": "セルヴォーク",
+    "normalizedName": "セルヴォーク",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk95mi01fudy7mmaqi3kcj",
+    "name": "アンプリチュード(Amplitude)",
+    "normalizedName": "アンプリチュードamplitude",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk9cwj01hzdy7m47esw0h4",
+    "name": "リサージ(LISSAGE)",
+    "normalizedName": "リサージlissage",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk9hkb01jxdy7mw39swvu8",
+    "name": "コフレドール",
+    "normalizedName": "コフレドール",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk9hna01k4dy7mmky6gamh",
+    "name": "ベネフィーク リュクス",
+    "normalizedName": "ベネフィークリュクス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovk9w8s01o7dy7mupir6vgv",
+    "name": "Panasonic Beauty",
+    "normalizedName": "panasonicbeauty",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovka3hr01qcdy7ml56iyx7e",
+    "name": "アユーラ(AYURA)",
+    "normalizedName": "アユーラayura",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovka7yo01rpdy7mowk44g18",
+    "name": "イグニス",
+    "normalizedName": "イグニス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkae5701umdy7mn6bb7i2o",
+    "name": "PEACH JOHN",
+    "normalizedName": "peachjohn",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkavhc01z3dy7m340aj05r",
+    "name": "アンフィネスホワイト",
+    "normalizedName": "アンフィネスホワイト",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkb1fe020udy7mjhe8vf8x",
+    "name": "cresc. by ASTALIFT(クレスク by アスタリフト)",
+    "normalizedName": "crescbyastaliftクレスクbyアスタリフト",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkbadv023rdy7m7u3tf5qm",
+    "name": "athletia(アスレティア)",
+    "normalizedName": "athletiaアスレティア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkbbyb024cdy7mrh4zbd0p",
+    "name": "肌ラボ",
+    "normalizedName": "肌ラボ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkbwu602addy7m8bqrrdpo",
+    "name": "UNMIX(アンミックス)",
+    "normalizedName": "unmixアンミックス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkc4s002dody7mj000h53v",
+    "name": "エテュセ(ettusais)",
+    "normalizedName": "エテュセettusais",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkc91n02endy7mjf35y0ee",
+    "name": "ヴェレダ",
+    "normalizedName": "ヴェレダ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkcag302eudy7m6dyml36g",
+    "name": "ジョンマスターオーガニック(john masters organics)",
+    "normalizedName": "ジョンマスターオーガニックjohnmastersorganics",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkcekk02ftdy7ml9w157yt",
+    "name": "DHC(ディーエイチシー)",
+    "normalizedName": "dhcディーエイチシー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkcil102g7dy7mtmdntr44",
+    "name": "SHISEIDO メーキャップ",
+    "normalizedName": "shiseidoメーキャップ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkcy5102jidy7mgvj0kelr",
+    "name": "ネロリラ ボタニカ",
+    "normalizedName": "ネロリラボタニカ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkd0va02jwdy7mflhghkxt",
+    "name": "SKIO(スキオ)",
+    "normalizedName": "skioスキオ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkd50c02khdy7maci8ljq3",
+    "name": "タカミ(TAKAMI)",
+    "normalizedName": "タカミtakami",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkd83y02lndy7mg9lecpyo",
+    "name": "キールズ",
+    "normalizedName": "キールズ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkd9rh02mfdy7m0mps4emb",
+    "name": "エンビロン(ENVIRON)",
+    "normalizedName": "エンビロンenviron",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkdj0202pjdy7m2ucj2aqv",
+    "name": "ヴァレンティノ ビューティ",
+    "normalizedName": "ヴァレンティノビューティ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkdkkp02q4dy7m0xubovj9",
+    "name": "kiss",
+    "normalizedName": "kiss",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkdu6v02rody7m2xhbjxzj",
+    "name": "ラ・メール(LA MER)",
+    "normalizedName": "ラ・メールlamer",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkdx8302sndy7m1wrdboka",
+    "name": "インフィニティ",
+    "normalizedName": "インフィニティ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovke6zu02x4dy7mv3p8bplv",
+    "name": "SNIDEL BEAUTY(スナイデル ビューティ)",
+    "normalizedName": "snidelbeautyスナイデルビューティ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkeb3p02xpdy7mal6eepro",
+    "name": "ALFE(アルフェ)",
+    "normalizedName": "alfeアルフェ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkech702xwdy7mav4xxemd",
+    "name": "オルビス(ORBIS)",
+    "normalizedName": "オルビスorbis",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkecka02y3dy7mb5y4s2te",
+    "name": "ByUR(バイユア)",
+    "normalizedName": "byurバイユア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkepur0326dy7mvunzfs81",
+    "name": "シン ピュルテ(Sinn Purete&#039;)",
+    "normalizedName": "シンピュルテsinnpurete039",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkesly032kdy7muvmygrvk",
+    "name": "ベアミネラル(bareMinerals)",
+    "normalizedName": "ベアミネラルbareminerals",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkf3a2036gdy7m96szgajp",
+    "name": "アヴェダ(AVEDA)",
+    "normalizedName": "アヴェダaveda",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkf3g9036udy7m2wqmo0xw",
+    "name": "アルジェラン",
+    "normalizedName": "アルジェラン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkg3vc03fldy7m47udgvmf",
+    "name": "MiMC(エムアイエムシー)",
+    "normalizedName": "mimcエムアイエムシー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkg41i03fzdy7mf8hginds",
+    "name": "HADASUI",
+    "normalizedName": "hadasui",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkgonv03hjdy7mby32fz7q",
+    "name": "SHISEIDO　オイデルミン",
+    "normalizedName": "shiseidoオイデルミン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkh33p03nrdy7mkun3pksb",
+    "name": "FATUITE(ファチュイテ)",
+    "normalizedName": "fatuiteファチュイテ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkh36n03nydy7mawpbyy46",
+    "name": "ドクターケイ(Dr.K)",
+    "normalizedName": "ドクターケイdrk",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkh6mc03pwdy7m3wh8gjb8",
+    "name": "ウズ バイ フローフシ(UZU BY FLOWFUSHI)",
+    "normalizedName": "ウズバイフローフシuzubyflowfushi",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkhgmi03urdy7mnl7ylflr",
+    "name": "ビオレ",
+    "normalizedName": "ビオレ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkhgpk03uydy7mg4oy1qcc",
+    "name": "スキンアクア　ネクスタ",
+    "normalizedName": "スキンアクアネクスタ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkhia603vqdy7mklukg3a0",
+    "name": "FEMMUE(ファミュ)",
+    "normalizedName": "femmueファミュ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkhjsc03wbdy7mcu4805v3",
+    "name": "マー＆ミー ラッテ",
+    "normalizedName": "マーミーラッテ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkhyvs043udy7m2ifk3u23",
+    "name": "エレガンス ラズル",
+    "normalizedName": "エレガンスラズル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovki5pf046ydy7mtlgdvndb",
+    "name": "hince(ヒンス)",
+    "normalizedName": "hinceヒンス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkifbr04b8dy7mj3wva9db",
+    "name": "SINTO(シントー)",
+    "normalizedName": "sintoシントー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkigr704bmdy7mjiw9kfil",
+    "name": "ELECTRON(エレクトロン)",
+    "normalizedName": "electronエレクトロン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkiila04cldy7m3on9q59t",
+    "name": "THE PUBLIC ORGANIC",
+    "normalizedName": "thepublicorganic",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkiolb04h2dy7m18gbiwwh",
+    "name": "シュウ ウエムラ(shu uemura)",
+    "normalizedName": "シュウウエムラshuuemura",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkjmyr04xedy7m7shovlyi",
+    "name": "IHADA",
+    "normalizedName": "ihada",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkjomq04yddy7m79q8gdn9",
+    "name": "BLOOMIO(ブルーミオ)",
+    "normalizedName": "bloomioブルーミオ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkjs81050pdy7m33p0rocm",
+    "name": "N organic",
+    "normalizedName": "norganic",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkju4e0529dy7mhzitl8vo",
+    "name": "HERA(ヘラ)",
+    "normalizedName": "heraヘラ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkjxv4054sdy7mzc39hbfs",
+    "name": "inoui(インウイ)",
+    "normalizedName": "inouiインウイ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkk3np056jdy7m7l3va494",
+    "name": "雪肌精 クリアウェルネス",
+    "normalizedName": "雪肌精クリアウェルネス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkk6zi058hdy7m5nvvfo3a",
+    "name": "C+mania(シーマニア)",
+    "normalizedName": "cmaniaシーマニア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkkcr605bzdy7mnkg7z16k",
+    "name": "KINS(キンズ)",
+    "normalizedName": "kinsキンズ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkkedr05crdy7ms42ofhbf",
+    "name": "アルブラン",
+    "normalizedName": "アルブラン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkkhwd05epdy7mj8nav37p",
+    "name": "メナード(MENARD)",
+    "normalizedName": "メナードmenard",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkkl9x05gndy7mdosf6uzo",
+    "name": "ザ・ギンザ(THE GINZA)",
+    "normalizedName": "ザ・ギンザtheginza",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkkrws05kqdy7m1cfw7srz",
+    "name": "FAS(ファス)",
+    "normalizedName": "fasファス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovklon9061gdy7mt0ko1bh9",
+    "name": "ポーラ(POLA)",
+    "normalizedName": "ポーラpola",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovklq2d061udy7mqlg78ur0",
+    "name": "クレイエンス",
+    "normalizedName": "クレイエンス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovklqaj062fdy7m0y6mag4n",
+    "name": "イグニス イオ(IGNIS iO)",
+    "normalizedName": "イグニスイオignisio",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkls130637dy7m1ie89sk9",
+    "name": "SABON",
+    "normalizedName": "sabon",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkltld063sdy7mcmfwfzqj",
+    "name": "ジョー マローン ロンドン(JO MALONE LONDON)",
+    "normalizedName": "ジョーマローンロンドンjomalonelondon",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovklv2b0646dy7m9o56d2s4",
+    "name": "Wonjungyo(ウォンジョンヨ)",
+    "normalizedName": "wonjungyoウォンジョンヨ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovklvgt0655dy7m1y21x0nl",
+    "name": "Lypo-C(リポシー)",
+    "normalizedName": "lypocリポシー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkm9mt06bydy7m77ch5s7k",
+    "name": "dr365(ドクターサンロクゴ)",
+    "normalizedName": "dr365ドクターサンロクゴ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkmeil06eody7mbipqyjef",
+    "name": "SHISEIDO バイタルパーフェクション",
+    "normalizedName": "shiseidoバイタルパーフェクション",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkmens06f2dy7mvqnrwrib",
+    "name": "F organics",
+    "normalizedName": "forganics",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkmwbx06nfdy7mc2yx0w79",
+    "name": "TWANY&me(トワニーアンドミー)",
+    "normalizedName": "twanymeトワニーアンドミー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkmyfa06oldy7muzgfb2fx",
+    "name": "MEGLY(メグリー)",
+    "normalizedName": "meglyメグリー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkn06d06p6dy7ms39jkm3d",
+    "name": "The Ordinary(オーディナリー)",
+    "normalizedName": "theordinaryオーディナリー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkn57x06shdy7m0nlgfx5m",
+    "name": "PRADA BEAUTY(プラダ ビューティ)",
+    "normalizedName": "pradabeautyプラダビューティ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovknmvl071fdy7mcya9zigc",
+    "name": "PAUL & JOE(ポール & ジョー)",
+    "normalizedName": "pauljoeポールジョー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkntic074qdy7mx50zqezs",
+    "name": "Laka(ラカ)",
+    "normalizedName": "lakaラカ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovknwh0075pdy7mz63m2ifv",
+    "name": "The Collagen(ザ・コラーゲン)",
+    "normalizedName": "thecollagenザ・コラーゲン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovknwjk075wdy7mk2d7k7jp",
+    "name": "SIMPLISSE(シンプリス)",
+    "normalizedName": "simplisseシンプリス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovknxw50763dy7ml9x2ua1b",
+    "name": "melt(メルト)",
+    "normalizedName": "meltメルト",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovknzna0779dy7m2g7balor",
+    "name": "+tmr(プラストゥモロー)",
+    "normalizedName": "tmrプラストゥモロー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovko2p30788dy7m0yu2nbq5",
+    "name": "ReFa(リファ)",
+    "normalizedName": "refaリファ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovko2rn078fdy7mjigahmtp",
+    "name": "Brighte(ブライト)",
+    "normalizedName": "brighteブライト",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovko5og0797dy7m80tkxofj",
+    "name": "セザンヌ(CEZANNE)",
+    "normalizedName": "セザンヌcezanne",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovko8e407cwdy7mcszvbrtw",
+    "name": "SISI(シシ)",
+    "normalizedName": "sisiシシ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovko8gs07d3dy7mvqbcu6mt",
+    "name": "FELICE TOWAKO COSME",
+    "normalizedName": "felicetowakocosme",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkofj607e2dy7m6tjo7rcd",
+    "name": "upink(ユーピンク)",
+    "normalizedName": "upinkユーピンク",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkoflt07e9dy7mvnvncmrg",
+    "name": "ANNA SUI",
+    "normalizedName": "annasui",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkofr807endy7mg7gzt9u3",
+    "name": "BAUM(バウム)",
+    "normalizedName": "baumバウム",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkofts07eudy7mm4fsf6q9",
+    "name": "diem couleur(ディエム クルール)",
+    "normalizedName": "diemcouleurディエムクルール",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkofwb07f1dy7m4gbge4l0",
+    "name": "INNISFREE(イニスフリー)",
+    "normalizedName": "innisfreeイニスフリー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkoyel07qmdy7m96hosaya",
+    "name": "アンフィネス",
+    "normalizedName": "アンフィネス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkp04107rldy7mg95x7v30",
+    "name": "SHISEIDO フューチャーソリューション ＬＸ",
+    "normalizedName": "shiseidoフューチャーソリューションlx",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkpe4r07zddy7mpvw1pzgt",
+    "name": "EKATO.(エカト)",
+    "normalizedName": "ekatoエカト",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkpzkp08b1dy7m33webhur",
+    "name": "ブリリアージュ(BRILLIAGE)",
+    "normalizedName": "ブリリアージュbrilliage",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkq64w08dpdy7mxxswz44u",
+    "name": "M・A・C(マック)",
+    "normalizedName": "m・a・cマック",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkqban08gfdy7mfh5s94s1",
+    "name": "to/one(トーン)",
+    "normalizedName": "tooneトーン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkqi3h08jjdy7m0imdqol5",
+    "name": "TWK",
+    "normalizedName": "twk",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkqp1p08n8dy7myc6cucgj",
+    "name": "THE LYPO(ザリポ)",
+    "normalizedName": "thelypoザリポ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkqsj708osdy7m6118wr2n",
+    "name": "ヤーマン(YAMAN)",
+    "normalizedName": "ヤーマンyaman",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkqtzn08p6dy7myds6hlfx",
+    "name": "THE ANSWER(ジアンサー)",
+    "normalizedName": "theanswerジアンサー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkqumt08pkdy7mqzem1d53",
+    "name": "PRORY(プロリー)",
+    "normalizedName": "proryプロリー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkqutt08pydy7maabas14c",
+    "name": "Gyutto(ギュット)",
+    "normalizedName": "gyuttoギュット",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkqwig08qqdy7mirsmbbb2",
+    "name": "Hair Theory Lab(ヘアセオリーラボ)",
+    "normalizedName": "hairtheorylabヘアセオリーラボ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkqwm208qxdy7mz0y0yazu",
+    "name": "Number.S(ナンバーエス)",
+    "normalizedName": "numbersナンバーエス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkre2l08xjdy7mzhk4iqre",
+    "name": "ニュートロジーナ(R) ノルウェー フォーミュラ",
+    "normalizedName": "ニュートロジーナrノルウェーフォーミュラ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkrfug08yidy7mnk7wqb0m",
+    "name": "meeth",
+    "normalizedName": "meeth",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkrhfs08ywdy7mqtk2z534",
+    "name": "groundplan(グラウンドプラン)",
+    "normalizedName": "groundplanグラウンドプラン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovktzoo0alfdy7m323v1qzj",
+    "name": "TSUDA COSMETICS",
+    "normalizedName": "tsudacosmetics",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovktzv40altdy7mjwxin29x",
+    "name": "iniks(イニクス)",
+    "normalizedName": "iniksイニクス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovku8oa0aqhdy7ma5jq5h7c",
+    "name": "By ttt.(バイティースリー)",
+    "normalizedName": "bytttバイティースリー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkv1yx0b4hdy7mwjdap8b0",
+    "name": "HBL BEAUTY(エイチビーエルビューティー)",
+    "normalizedName": "hblbeautyエイチビーエルビューティー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkv3rq0b5udy7motu6l8c8",
+    "name": "peripera(ペリペラ)",
+    "normalizedName": "periperaペリペラ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkvnov0be7dy7m12vym5lq",
+    "name": "トリロジー",
+    "normalizedName": "トリロジー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkvo3e0bfddy7matfpel92",
+    "name": "メイベリン ニューヨーク(MAYBELLINE NEW YORK)",
+    "normalizedName": "メイベリンニューヨークmaybellinenewyork",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkvoao0bfydy7mpdkk5ueg",
+    "name": "Diane(ダイアン)",
+    "normalizedName": "dianeダイアン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkvomx0bgxdy7mb32j0bi8",
+    "name": "メタボリック",
+    "normalizedName": "メタボリック",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkvorm0bhbdy7m2m4hkp29",
+    "name": "SHIMBI METHOD(シンビメソッド)",
+    "normalizedName": "shimbimethodシンビメソッド",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkvrac0bjudy7m363gvdvf",
+    "name": "SHISEIDO サンケア",
+    "normalizedName": "shiseidoサンケア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkvrcp0bk1dy7m2wc0zj1e",
+    "name": "BIOHEAL BOH(バイオヒールボ)",
+    "normalizedName": "biohealbohバイオヒールボ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkz3po0eaedy7m50amommx",
+    "name": "Lypo-C SKINBEAUTY(リポシー スキンビューティー)",
+    "normalizedName": "lypocskinbeautyリポシースキンビューティー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkz5sc0eg8dy7mbq97zufz",
+    "name": "Lalaskin(ララスキン)",
+    "normalizedName": "lalaskinララスキン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkzbly0ewrdy7m121q3chc",
+    "name": "Straine(ストレイン)",
+    "normalizedName": "straineストレイン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkzbqq0ex5dy7mcld5isak",
+    "name": "myBoostars(マイブースターズ)",
+    "normalizedName": "myboostarsマイブースターズ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkzc330ey4dy7mp1jtiizq",
+    "name": "Ｌａ ＣＡＳＴＡ",
+    "normalizedName": "lacasta",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovkzc860eyidy7myl5q6s3p",
+    "name": "Yunth(ユンス)",
+    "normalizedName": "yunthユンス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl118e0g3jdy7m3z4cm1gp",
+    "name": "Eternam(エテルナム)",
+    "normalizedName": "eternamエテルナム",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl12mr0g3xdy7mx5qong9r",
+    "name": "p/d(ピーディー)",
+    "normalizedName": "pdピーディー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl12p70g44dy7mtsvmez1s",
+    "name": "Eclarity(エクラリティ)",
+    "normalizedName": "eclarityエクラリティ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl12rp0g4bdy7mzbre3klx",
+    "name": "BORDER FREE cosmetics(ボーダーフリーコスメティクス)",
+    "normalizedName": "borderfreecosmeticsボーダーフリーコスメティクス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl12yr0g4wdy7mlogiymaa",
+    "name": "フローラノーティス　ジルスチュアート",
+    "normalizedName": "フローラノーティスジルスチュアート",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl133l0g5ady7mh0yxt0mp",
+    "name": "vim BEAUTY",
+    "normalizedName": "vimbeauty",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl135y0g5hdy7mqrsr21z6",
+    "name": "Bé-A(ベア)",
+    "normalizedName": "béaベア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl13at0g5vdy7max82d9oc",
+    "name": "milktouch(ミルクタッチ)",
+    "normalizedName": "milktouchミルクタッチ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl2ezz0g93dy7mtycm4rru",
+    "name": "FAS",
+    "normalizedName": "fas",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl2h280g9hdy7ml5jjpvme",
+    "name": "HBL",
+    "normalizedName": "hbl",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl2lbs0ga2dy7mr60314uo",
+    "name": "トリデン",
+    "normalizedName": "トリデン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl2tj20gc0dy7m68frnygr",
+    "name": "ミルクタッチ",
+    "normalizedName": "ミルクタッチ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl2xkx0gczdy7mipydy6h8",
+    "name": "Hair",
+    "normalizedName": "hair",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl2xu90gdrdy7mnk6wiyzg",
+    "name": "ジアンサー",
+    "normalizedName": "ジアンサー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl300u0gecdy7mtkn2dkqp",
+    "name": "プラダ",
+    "normalizedName": "プラダ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl36co0gfwdy7m38u09vyl",
+    "name": "ハウス",
+    "normalizedName": "ハウス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl36f80gg3dy7m6rf15kmr",
+    "name": "ダヴ",
+    "normalizedName": "ダヴ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl3ck80gh9dy7mp90sgvsq",
+    "name": "シュウ",
+    "normalizedName": "シュウ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl3hps0gifdy7mgytteddu",
+    "name": "メディヒール",
+    "normalizedName": "メディヒール",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl3hs80gimdy7m9e4prmqz",
+    "name": "バイユア",
+    "normalizedName": "バイユア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl3rfm0gk6dy7mwnrfw65c",
+    "name": "パナソニック",
+    "normalizedName": "パナソニック",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl3rkh0gkkdy7mgexqx6xt",
+    "name": "リファ",
+    "normalizedName": "リファ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl3rmq0gkrdy7mavd4bo39",
+    "name": "PASURIRE",
+    "normalizedName": "pasurire",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl3xzq0gm4dy7mawk054ap",
+    "name": "Ｎ",
+    "normalizedName": "n",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl42um0gmpdy7m0oi2gmhk",
+    "name": "アヴェダ",
+    "normalizedName": "アヴェダ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl42x50gmwdy7mfpw0bptz",
+    "name": "ラ・カスタ",
+    "normalizedName": "ラ・カスタ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl42zf0gn3dy7m7eocc0gq",
+    "name": "ジョンマスターオーガニック",
+    "normalizedName": "ジョンマスターオーガニック",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl47bj0gondy7mh73gdfuu",
+    "name": "カネボウ化粧品",
+    "normalizedName": "カネボウ化粧品",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl47dy0goudy7misabwm6c",
+    "name": "カネボウインターナショナルDiv.",
+    "normalizedName": "カネボウインターナショナルdiv",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl4don0gq7dy7moscmhmle",
+    "name": "Lalaskin",
+    "normalizedName": "lalaskin",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl4dyc0gqzdy7mfxrggc1t",
+    "name": "ONE",
+    "normalizedName": "one",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl4g0a0grddy7mk52rmswq",
+    "name": "ニベア花王",
+    "normalizedName": "ニベア花王",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl4g7f0grydy7mpjre0jxg",
+    "name": "THREE",
+    "normalizedName": "three",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl4i5h0gs5dy7m51ftgfv2",
+    "name": "THE",
+    "normalizedName": "the",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl4iey0gsxdy7mbcluc7it",
+    "name": "アスレティア",
+    "normalizedName": "アスレティア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl4kfv0gt4dy7mbqepdcwj",
+    "name": "イソップ",
+    "normalizedName": "イソップ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl4kif0gtbdy7mkgd4c1u1",
+    "name": "メゾン",
+    "normalizedName": "メゾン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl4ooz0guody7mx803krap",
+    "name": "DUO",
+    "normalizedName": "duo",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl4rsh0gvgdy7msiozu3vb",
+    "name": "Straine",
+    "normalizedName": "straine",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl4w0j0gwtdy7mx1grkych",
+    "name": "shaishaishai",
+    "normalizedName": "shaishaishai",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl4y0p0gx7dy7mnha5favl",
+    "name": "d",
+    "normalizedName": "d",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl50860gxzdy7mfnx19j8k",
+    "name": "ヘレナ",
+    "normalizedName": "ヘレナ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl54nl0gyydy7mcxm0tbp7",
+    "name": "ナルシソ",
+    "normalizedName": "ナルシソ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl5eai0h0pdy7mbs390ugg",
+    "name": "ジョンマスター",
+    "normalizedName": "ジョンマスター",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl5ef50h13dy7m42dtjsu2",
+    "name": "マペペ",
+    "normalizedName": "マペペ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl5ih20h1vdy7mj56pw6w4",
+    "name": "サブリミック",
+    "normalizedName": "サブリミック",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl5ijf0h22dy7mrblr0toq",
+    "name": "メルト",
+    "normalizedName": "メルト",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl5io20h2gdy7m3trao3h2",
+    "name": "シン",
+    "normalizedName": "シン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl5q0p0h4edy7mvav09d72",
+    "name": "エトヴォス",
+    "normalizedName": "エトヴォス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl5u420h5kdy7m14f73ar1",
+    "name": "パルファム",
+    "normalizedName": "パルファム",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl5xej0h83dy7mjvpozhw8",
+    "name": "dr365",
+    "normalizedName": "dr365",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl66760hamdy7mhu101538",
+    "name": "スイサイ",
+    "normalizedName": "スイサイ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl6g400hdcdy7mo0vwye1d",
+    "name": "ラブ・ライナー",
+    "normalizedName": "ラブ・ライナー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl6i4q0hdjdy7m3l4gw8gm",
+    "name": "ボビイ",
+    "normalizedName": "ボビイ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl6us40hhmdy7myru8yc9x",
+    "name": "wakemake",
+    "normalizedName": "wakemake",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl722y0hjkdy7mn00pzuqr",
+    "name": "スピック",
+    "normalizedName": "スピック",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl725h0hjrdy7m4uclsjuo",
+    "name": "レカルカ",
+    "normalizedName": "レカルカ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl76oo0hl4dy7mpyenffae",
+    "name": "MYTREX",
+    "normalizedName": "mytrex",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl78oh0hlpdy7m1z64y1f8",
+    "name": "ストレートシャンプー",
+    "normalizedName": "ストレートシャンプー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl7n750hotdy7mpmiuy0r2",
+    "name": "b",
+    "normalizedName": "b",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl7tgq0hpzdy7m0v62f0va",
+    "name": "MEMEME",
+    "normalizedName": "mememe",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl7tj20hq6dy7mfdsdd9dq",
+    "name": "アリミノ",
+    "normalizedName": "アリミノ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl7xyb0hrqdy7mjw8bx9xz",
+    "name": "トーン",
+    "normalizedName": "トーン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl800n0hs4dy7mvuvjy1y5",
+    "name": "メイベリン",
+    "normalizedName": "メイベリン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl80330hsbdy7mb6j6ie1s",
+    "name": "ラサーナ",
+    "normalizedName": "ラサーナ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl849b0htady7m33eszbfg",
+    "name": "マジョリカ",
+    "normalizedName": "マジョリカ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl84bq0hthdy7mqm3f79uc",
+    "name": "キャンメイクカールスナイパーマスカラ",
+    "normalizedName": "キャンメイクカールスナイパーマスカラ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl86c90htvdy7mxwfpfotl",
+    "name": "Bé-A",
+    "normalizedName": "béa",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl86en0hu2dy7mazspaqza",
+    "name": "Lypo-C",
+    "normalizedName": "lypoc",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl86h10hu9dy7muo6sa7ek",
+    "name": "ファチュイテ",
+    "normalizedName": "ファチュイテ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl8nn00hzpdy7mi65epftw",
+    "name": "ザ・ギンザ",
+    "normalizedName": "ザ・ギンザ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl8v4z0i1ndy7mc21jsyph",
+    "name": "津田コスメティクス",
+    "normalizedName": "津田コスメティクス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl8xcn0i2mdy7m2e7fubri",
+    "name": "第一三共ヘルスケア",
+    "normalizedName": "第一三共ヘルスケア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl8xfb0i2tdy7mdxrdyc1d",
+    "name": "プレミアアンチエイジング",
+    "normalizedName": "プレミアアンチエイジング",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl91vj0i4ddy7mwfe9ohxs",
+    "name": "ブラウン",
+    "normalizedName": "ブラウン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl920y0i4rdy7mmifgvejg",
+    "name": "ヤーマン",
+    "normalizedName": "ヤーマン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl98rn0i73dy7mdwc7n2ze",
+    "name": "LAGOM",
+    "normalizedName": "lagom",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl9ct40i7vdy7mlkiox2do",
+    "name": "トム",
+    "normalizedName": "トム",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovl9szd0iasdy7m4oz056p9",
+    "name": "KINUJO",
+    "normalizedName": "kinujo",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlab8m0ibrdy7ma6biwo34",
+    "name": "SOFINA",
+    "normalizedName": "sofina",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlajal0idwdy7m3g7bhvxb",
+    "name": "iniks",
+    "normalizedName": "iniks",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlamo10iehdy7mp9zr47vh",
+    "name": "スナイデル",
+    "normalizedName": "スナイデル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlbafa0ijqdy7mycwzx09l",
+    "name": "ナンバーズイン",
+    "normalizedName": "ナンバーズイン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlbhwj0ilady7mykdtj7od",
+    "name": "ラネージュ",
+    "normalizedName": "ラネージュ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlbw9e0ipddy7m6mhyl8bj",
+    "name": "明治",
+    "normalizedName": "明治",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlbwc30ipkdy7mfhvv2wrl",
+    "name": "シンプリス",
+    "normalizedName": "シンプリス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlbzax0iq5dy7m2iyg2tsh",
+    "name": "アヌア",
+    "normalizedName": "アヌア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlc2r509dgrjzyly6pfsmb",
+    "name": "8x4",
+    "normalizedName": "8x4",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlc2ul09dtrjzyqmbor8tb",
+    "name": "DHC",
+    "normalizedName": "dhc",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlc5p10is3dy7m9nswg4xg",
+    "name": "ジョリエン",
+    "normalizedName": "ジョリエン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlc5q809fsrjzy2kyrcpqh",
+    "name": "VITAL PROTEINS",
+    "normalizedName": "vitalproteins",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlcdkh0iumdy7mmcgskqfg",
+    "name": "エスティ",
+    "normalizedName": "エスティ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovld89r0j1mdy7m01gewb76",
+    "name": "サナ",
+    "normalizedName": "サナ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovldfkq0j3kdy7mso6bxkhz",
+    "name": "カナデル",
+    "normalizedName": "カナデル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovle0is0j7udy7mz1m5vpgc",
+    "name": "SUQQU（スック）シグニチャー",
+    "normalizedName": "suqquスックシグニチャー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlek0x0je2dy7m05d147i9",
+    "name": "BAUM",
+    "normalizedName": "baum",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlek5q0jegdy7mkfdon4fo",
+    "name": "カネボウ",
+    "normalizedName": "カネボウ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlempf0jendy7mz2v8gs4x",
+    "name": "かならぼ",
+    "normalizedName": "かならぼ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlemzl0jffdy7m59xyv10g",
+    "name": "イミュ",
+    "normalizedName": "イミュ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovleoyf0jfmdy7mvwqyyw2o",
+    "name": "井田ラボラトリーズ",
+    "normalizedName": "井田ラボラトリーズ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlep3d0jg0dy7mxyaoqk9d",
+    "name": "デュカート",
+    "normalizedName": "デュカート",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovleq4p0jg7dy7m7r1j9sja",
+    "name": "常盤薬品工業",
+    "normalizedName": "常盤薬品工業",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovleq9j0jgldy7ma4vu23kj",
+    "name": "オーディナリー",
+    "normalizedName": "オーディナリー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovleucs0jhddy7may5z0nym",
+    "name": "Rainmakers",
+    "normalizedName": "rainmakers",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovleuff0jhkdy7mp7uijj30",
+    "name": "コーセー",
+    "normalizedName": "コーセー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlf2lv0jjbdy7mjsp7nmif",
+    "name": "花王",
+    "normalizedName": "花王",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlf2oh0jjidy7mjzpcrvmu",
+    "name": "ファイントゥデイ",
+    "normalizedName": "ファイントゥデイ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlfaxy0jkhdy7m6xo5fch7",
+    "name": "ジョンマスターオーガニックme",
+    "normalizedName": "ジョンマスターオーガニックme",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlfl6d0jmfdy7mlkpnvso5",
+    "name": "msh",
+    "normalizedName": "msh",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlfl8u0jmmdy7mtwhi7960",
+    "name": "コージー本舗",
+    "normalizedName": "コージー本舗",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlfwxb0jpqdy7m8w2hh18t",
+    "name": "Aiロボティクス",
+    "normalizedName": "aiロボティクス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlg6270jqidy7mg0wbk1sk",
+    "name": "mano",
+    "normalizedName": "mano",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlg64o0jqpdy7m6cd5tbu5",
+    "name": "Hamee",
+    "normalizedName": "hamee",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlg8cm0jr3dy7mipu4lhrf",
+    "name": "クラシエ",
+    "normalizedName": "クラシエ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlglz50jttdy7m5mxebkn0",
+    "name": "ポーラ（POLA）ホワイトショット",
+    "normalizedName": "ポーラpolaホワイトショット",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlgm520ju7dy7mym1s4zw1",
+    "name": "資生堂インターナショナル",
+    "normalizedName": "資生堂インターナショナル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlgrah0juzdy7m6lp5j8n7",
+    "name": "シロク",
+    "normalizedName": "シロク",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlgrdd0jv6dy7mmnmcb10q",
+    "name": "富士フイルム",
+    "normalizedName": "富士フイルム",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlh8740jvydy7mf42lp3v2",
+    "name": "HERMES",
+    "normalizedName": "hermes",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlhc5h0jwjdy7mnuc354ce",
+    "name": "FTC",
+    "normalizedName": "ftc",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlhe170jwqdy7mb2glkkot",
+    "name": "アビオス",
+    "normalizedName": "アビオス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlhe430jwxdy7myx4rtn10",
+    "name": "発酵マメ子",
+    "normalizedName": "発酵マメ子",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlhghc0jxidy7m6ruga97c",
+    "name": "ポッカサッポロ",
+    "normalizedName": "ポッカサッポロ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlhija0jy3dy7mncpqtbfe",
+    "name": "ジルスチューアート",
+    "normalizedName": "ジルスチューアート",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlhkhr0jyhdy7mxyjtp61a",
+    "name": "ベースメントファクトリー",
+    "normalizedName": "ベースメントファクトリー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlhkkh0jyody7mg303apke",
+    "name": "SHIRO",
+    "normalizedName": "shiro",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlhojj0jzndy7mqpl8f8kp",
+    "name": "SOLIA",
+    "normalizedName": "solia",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlhomh0jzudy7mdq2avjfn",
+    "name": "ハルクファクター",
+    "normalizedName": "ハルクファクター",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlhqr60k0fdy7mssdffnsr",
+    "name": "エンビロン",
+    "normalizedName": "エンビロン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlhqtu0k0mdy7mge8wwu29",
+    "name": "クリスティーナ",
+    "normalizedName": "クリスティーナ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlhtoc0k10dy7mwwmrsdja",
+    "name": "KHAKI",
+    "normalizedName": "khaki",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlhtr20k17dy7m9do5boz2",
+    "name": "COSRX",
+    "normalizedName": "cosrx",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlhvqc0k1edy7m24ezltuw",
+    "name": "matsukiyo",
+    "normalizedName": "matsukiyo",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlidu20k3qdy7m234h18t0",
+    "name": "クオリティ",
+    "normalizedName": "クオリティ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlidzg0k44dy7molyzon1g",
+    "name": "Dr.ルルルン",
+    "normalizedName": "drルルルン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlif1n0k4bdy7mvx8b9djk",
+    "name": "BENOW",
+    "normalizedName": "benow",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlif4f0k4idy7mb71x0n0e",
+    "name": "ジェナベール",
+    "normalizedName": "ジェナベール",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlif760k4pdy7mt9lusgzd",
+    "name": "WONDER",
+    "normalizedName": "wonder",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlipp30k6gdy7m666wrx42",
+    "name": "アリエルトレーディング",
+    "normalizedName": "アリエルトレーディング",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlirqf0k6udy7m0kingu2y",
+    "name": "i.D",
+    "normalizedName": "id",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovliyjg0k8sdy7mcezwdoky",
+    "name": "クレ・ド・",
+    "normalizedName": "クレ・ド・",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlj5en0kb4dy7mum8vp9q5",
+    "name": "yutori",
+    "normalizedName": "yutori",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovljc6p0kcvdy7mlohvd1b4",
+    "name": "Clue",
+    "normalizedName": "clue",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovljc9k0kd2dy7mn21c7oe0",
+    "name": "インターナショナルコスメティックス",
+    "normalizedName": "インターナショナルコスメティックス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovljng10kfsdy7mizu4e386",
+    "name": "ローラ",
+    "normalizedName": "ローラ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovljucs0khqdy7mhoiaz966",
+    "name": "サボン",
+    "normalizedName": "サボン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlkkuk0knrdy7m5m2jayvk",
+    "name": "ポール",
+    "normalizedName": "ポール",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovllb880kukdy7mej3qhmhv",
+    "name": "サロニア",
+    "normalizedName": "サロニア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlmfc70l2ndy7m8w8v2ibh",
+    "name": "ディーアップ",
+    "normalizedName": "ディーアップ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovln22d0cefrjzyyfcrlqfo",
+    "name": "SK-IILXP",
+    "normalizedName": "skiilxp",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlne3f0cgmrjzymp9h772f",
+    "name": "フローラノーティス",
+    "normalizedName": "フローラノーティス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlnezu0chrrjzy0dueb9wp",
+    "name": "I-ne",
+    "normalizedName": "ine",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlo01l0cn4rjzypberuqxc",
+    "name": "athletia",
+    "normalizedName": "athletia",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovloiuq0cstrjzyoajaorb9",
+    "name": "MTG",
+    "normalizedName": "mtg",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovloiwx0ct0rjzyip6veist",
+    "name": "イヴ・ロシェ",
+    "normalizedName": "イヴ・ロシェ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovloj3j0ctprjzym53b0uls",
+    "name": "ダイソン",
+    "normalizedName": "ダイソン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovloldk0cv6rjzy2pc09m5o",
+    "name": "アルビオン「アンフィネス」ライン",
+    "normalizedName": "アルビオン「アンフィネス」ライン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlolgv0cvjrjzyk8mc5gor",
+    "name": "SK-II「LXP",
+    "normalizedName": "skii「lxp",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlp2720cz2rjzy9ybnh3j0",
+    "name": "オサジ",
+    "normalizedName": "オサジ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlplv90d2rrjzym0xynizu",
+    "name": "バイオヒールボ",
+    "normalizedName": "バイオヒールボ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlpqpj0d3yrjzy1zmo6q98",
+    "name": "KINS",
+    "normalizedName": "kins",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlq0cj0d6zrjzyanlsbtdu",
+    "name": "ミシャ",
+    "normalizedName": "ミシャ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlqhb90dbirjzy6mwz5rt0",
+    "name": "アルマーニ",
+    "normalizedName": "アルマーニ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlqjr00dcdrjzy2n55kojt",
+    "name": "AESTURA",
+    "normalizedName": "aestura",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlqlwq0dd8rjzympxxk6he",
+    "name": "MiMC",
+    "normalizedName": "mimc",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlqm0c0ddlrjzy9hceyibq",
+    "name": "エルメスジャポン",
+    "normalizedName": "エルメスジャポン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlqv850dgarjzybw7wauir",
+    "name": "山田養蜂場",
+    "normalizedName": "山田養蜂場",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlr1n50dhtrjzypdobrvqh",
+    "name": "MEM",
+    "normalizedName": "mem",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlr3op0dicrjzy955d4c45",
+    "name": "スギ薬局",
+    "normalizedName": "スギ薬局",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlrabp0dk7rjzy7gmkpwyr",
+    "name": "ラ・メールザ・モイスチャライジングナイト",
+    "normalizedName": "ラ・メールザ・モイスチャライジングナイト",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlsdrv0dv8rjzysd7ghvw0",
+    "name": "LINKA",
+    "normalizedName": "linka",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlst1v0dzfrjzyuro33p7y",
+    "name": "UZU",
+    "normalizedName": "uzu",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovltclp0e3srjzy1z41r987",
+    "name": "ディオールカプチュール",
+    "normalizedName": "ディオールカプチュール",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovltmq60e5trjzyc8cjd5nq",
+    "name": "カネボウ化粧品スイサイ",
+    "normalizedName": "カネボウ化粧品スイサイ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovltu1j0e6orjzyzhapo2bz",
+    "name": "アスレティアリフレッシング",
+    "normalizedName": "アスレティアリフレッシング",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovltu6w0e6vrjzy6rcxv6r4",
+    "name": "シスレーヘア",
+    "normalizedName": "シスレーヘア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlu3gz0e82rjzypzhc0sjn",
+    "name": "ジェイメックビー",
+    "normalizedName": "ジェイメックビー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlu8le0e9frjzycvs7dmag",
+    "name": "エレガンスカールアメイジング",
+    "normalizedName": "エレガンスカールアメイジング",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovludl80e9mrjzy733v3eib",
+    "name": "HABA",
+    "normalizedName": "haba",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlug0n0eahrjzydt4gfqrx",
+    "name": "エレガンスアイブロウ",
+    "normalizedName": "エレガンスアイブロウ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlup6f0ecirjzyi2o87w42",
+    "name": "シャネルレ",
+    "normalizedName": "シャネルレ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlut3c0ed7rjzy2br59yfv",
+    "name": "モデラート",
+    "normalizedName": "モデラート",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovluz8t0eeqrjzyuee19cdp",
+    "name": "コーセープロビジョン",
+    "normalizedName": "コーセープロビジョン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlv7g00eglrjzyvj8z5f14",
+    "name": "ディオールディオールスキン",
+    "normalizedName": "ディオールディオールスキン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlv9jt0eh4rjzyjjndz57o",
+    "name": "コスメデコルテルース",
+    "normalizedName": "コスメデコルテルース",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlvkke0eizrjzyk976ypbh",
+    "name": "ナチュラルサイエンス",
+    "normalizedName": "ナチュラルサイエンス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlvxaa0elirjzyxpkbd9ya",
+    "name": "CPコスメティクス",
+    "normalizedName": "cpコスメティクス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlwzm70etdrjzytiai73nl",
+    "name": "Nuzzle",
+    "normalizedName": "nuzzle",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlx5wv0ev8rjzyasajoccd",
+    "name": "シャンティ",
+    "normalizedName": "シャンティ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlx7vq0evfrjzy8cptt62j",
+    "name": "BCL",
+    "normalizedName": "bcl",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlx7yw0evmrjzywtzr6vj2",
+    "name": "ミティア",
+    "normalizedName": "ミティア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovly96d0f3nrjzykh8o05jw",
+    "name": "コスメデコルテAQ",
+    "normalizedName": "コスメデコルテaq",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlyd8n0f4irjzy29wpebtq",
+    "name": "メルヴィータ",
+    "normalizedName": "メルヴィータ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlyku30f61rjzyhn361ay1",
+    "name": "JIMOS",
+    "normalizedName": "jimos",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlyoxb0f6wrjzyi9hck68r",
+    "name": "ちふれ",
+    "normalizedName": "ちふれ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlzswe0ff9rjzyapz7ahn9",
+    "name": "ルイ・ヴィトン",
+    "normalizedName": "ルイ・ヴィトン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovlzuss0ffgrjzyxluta04s",
+    "name": "アルペンローゼ",
+    "normalizedName": "アルペンローゼ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovm0qoz0fmhrjzyyj6mp9bv",
+    "name": "ジュン",
+    "normalizedName": "ジュン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovm0qs60fmorjzyjmt8aeqg",
+    "name": "サンルイ・インターナッショナル",
+    "normalizedName": "サンルイ・インターナッショナル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovm1any0frvrjzygcg7392o",
+    "name": "デ",
+    "normalizedName": "デ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovm2afq0g08rjzy4tj8t6xd",
+    "name": "コスメデコルテ「AQ」ライン",
+    "normalizedName": "コスメデコルテ「aq」ライン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovm2mpd0g2rrjzyhg8pf966",
+    "name": "ア",
+    "normalizedName": "ア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovm3ytq0geyrjzytbrm5taj",
+    "name": "ハーバー研究所",
+    "normalizedName": "ハーバー研究所",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovm497s0ghtrjzyxsdv108j",
+    "name": "メディプラス",
+    "normalizedName": "メディプラス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovm499w0gi0rjzyds605mvu",
+    "name": "ピエール",
+    "normalizedName": "ピエール",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovm51250gp1rjzymb8je35h",
+    "name": "KISSME（伊勢半）",
+    "normalizedName": "kissme伊勢半",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovm514e0gp8rjzyxs6f913j",
+    "name": "韓国高麗人蔘社",
+    "normalizedName": "韓国高麗人蔘社",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovm5a740gqxrjzy9ztn813f",
+    "name": "ザ",
+    "normalizedName": "ザ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovm5myk0gssrjzy3tfldzzg",
+    "name": "ジョー",
+    "normalizedName": "ジョー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovm5sjq0gttrjzylng1tbre",
+    "name": "CLIO（クリオ）",
+    "normalizedName": "clioクリオ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovm6mxe0gy0rjzyoibqz8k5",
+    "name": "資生堂薬品",
+    "normalizedName": "資生堂薬品",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovm7t3m0h57rjzy44ewtly7",
+    "name": "ロ",
+    "normalizedName": "ロ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovm8fge0h98rjzyc6rstc08",
+    "name": "SIMOS",
+    "normalizedName": "simos",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovm8v2a0hblrjzyc7qmd1nw",
+    "name": "クリスチャン",
+    "normalizedName": "クリスチャン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovm9ade0he4rjzy70y56cla",
+    "name": "フィッツコーポレーション",
+    "normalizedName": "フィッツコーポレーション",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovm9xkf0hizrjzy905cd44h",
+    "name": "富士フィルム",
+    "normalizedName": "富士フィルム",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmbbuh0hn0rjzyoqmxr8bz",
+    "name": "カネボウ化粧品ルナソル",
+    "normalizedName": "カネボウ化粧品ルナソル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmbe0p0hndrjzyoej00tsg",
+    "name": "カネボウ化粧品アリィー（ALLIE）",
+    "normalizedName": "カネボウ化粧品アリィーallie",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmbgcj0ho2rjzyy26dz9w3",
+    "name": "カネボウ化粧品ケイト",
+    "normalizedName": "カネボウ化粧品ケイト",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmbkxz0hp3rjzy2niqmfu5",
+    "name": "NARS（ナーズ）ソフトマット",
+    "normalizedName": "narsナーズソフトマット",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmbl1i0hparjzyuuub5ddo",
+    "name": "ITRIM（イトリン）",
+    "normalizedName": "itrimイトリン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmbtvw0hqzrjzyz8qu7fc8",
+    "name": "ミキモト",
+    "normalizedName": "ミキモト",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmc8vm0htcrjzyhoidcen3",
+    "name": "カラーズ",
+    "normalizedName": "カラーズ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmcb650htjrjzya3krungs",
+    "name": "THREE（スリー）バランシングステム",
+    "normalizedName": "threeスリーバランシングステム",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmcb9k0htqrjzypducsiv5",
+    "name": "SUQQU（スック）ジェントル",
+    "normalizedName": "suqquスックジェントル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmcbcl0htxrjzymit34gl6",
+    "name": "カネボウ化粧品SENSAI（センサイ）AS",
+    "normalizedName": "カネボウ化粧品sensaiセンサイas",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmcfgk0husrjzyi8mtnhbq",
+    "name": "THREE（スリー）バランシング",
+    "normalizedName": "threeスリーバランシング",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmcfjm0huzrjzykdotvdqo",
+    "name": "SUQQU（スック）スムース",
+    "normalizedName": "suqquスックスムース",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmcm4u0hw6rjzyg9912ky4",
+    "name": "エルメス",
+    "normalizedName": "エルメス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmcr760hxjrjzyirksrmn0",
+    "name": "ドゥ･ラ･メール",
+    "normalizedName": "ドゥ・ラ・メール",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmctiu0hxqrjzyid9ykqqt",
+    "name": "OSAJI",
+    "normalizedName": "osaji",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmd0w30hz9rjzyiiay1299",
+    "name": "カネボーインターナショナルDiv.",
+    "normalizedName": "カネボーインターナショナルdiv",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmdfh40i2grjzyisan3hj2",
+    "name": "リンメル",
+    "normalizedName": "リンメル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmdted0i4trjzycs1yxl3h",
+    "name": "FATUITE",
+    "normalizedName": "fatuite",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmeiim0iaurjzyry289o5t",
+    "name": "UNMIX",
+    "normalizedName": "unmix",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmex0g0idprjzyasay47az",
+    "name": "GMコーポレーション",
+    "normalizedName": "gmコーポレーション",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmfuv30il2rjzydwbhpzso",
+    "name": "アンプリチュード",
+    "normalizedName": "アンプリチュード",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmfycz0ilrrjzydranhodp",
+    "name": "カネボウインターナショナルDiv.KANEBO",
+    "normalizedName": "カネボウインターナショナルdivkanebo",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmg3qp0imsrjzy3og7yazm",
+    "name": "アクセーヌ",
+    "normalizedName": "アクセーヌ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmg3wm0in5rjzyofjebq08",
+    "name": "セ",
+    "normalizedName": "セ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmg6920inorjzyy51mg2dd",
+    "name": "Mellia",
+    "normalizedName": "mellia",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmhlz70iyjrjzycnkvfhpe",
+    "name": "GM",
+    "normalizedName": "gm",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmhpwa0iz8rjzyf8fimw80",
+    "name": "ミルボン",
+    "normalizedName": "ミルボン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmhq0w0izlrjzygzxk5twt",
+    "name": "モロッカンオイル",
+    "normalizedName": "モロッカンオイル",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmhxtc0j1arjzykwny4hhs",
+    "name": "持田ヘルスケア",
+    "normalizedName": "持田ヘルスケア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmis2a0j8brjzyrw9ebjrl",
+    "name": "ウエラ",
+    "normalizedName": "ウエラ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmis6l0j8orjzy7cbm9dfd",
+    "name": "サイオス",
+    "normalizedName": "サイオス",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmiw380j9drjzyftgj8yo3",
+    "name": "パラドゥ",
+    "normalizedName": "パラドゥ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmjafc0jderjzyfwgsn2wr",
+    "name": "ファイントゥデイ資生堂",
+    "normalizedName": "ファイントゥデイ資生堂",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmjlc60jfxrjzyj51om043",
+    "name": "ラリン",
+    "normalizedName": "ラリン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmk5gp0jlarjzyf2zfpt40",
+    "name": "エトヴォスミネラルインナー",
+    "normalizedName": "エトヴォスミネラルインナー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmk6nd0jltrjzynhf3p707",
+    "name": "グライド・エンタープライズ",
+    "normalizedName": "グライド・エンタープライズ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmkcw00jnirjzykpwezgr6",
+    "name": "ポ",
+    "normalizedName": "ポ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmkxrx0js7rjzyvtd5c9v2",
+    "name": "大正製薬",
+    "normalizedName": "大正製薬",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovml8pe0juwrjzyooj1foac",
+    "name": "牛乳石鹼共進社",
+    "normalizedName": "牛乳石鹼共進社",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmlf4p0jw3rjzycaph3x3n",
+    "name": "コーセーコスメポート",
+    "normalizedName": "コーセーコスメポート",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmm4p20k24rjzyabtlzm66",
+    "name": "ジョエルロティ",
+    "normalizedName": "ジョエルロティ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmm4rn0k2brjzyxenu8zgj",
+    "name": "KOKOBUY",
+    "normalizedName": "kokobuy",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmm4ud0k2irjzyj74dczkz",
+    "name": "ナプラ",
+    "normalizedName": "ナプラ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmmu8j0k87rjzyz1r5m5ao",
+    "name": "ビービーラボ",
+    "normalizedName": "ビービーラボ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmnin80kderjzyiky9wvbl",
+    "name": "アナ",
+    "normalizedName": "アナ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmobao0kjxrjzyw2x0m6pq",
+    "name": "イヴ・サンローランサテン",
+    "normalizedName": "イヴ・サンローランサテン",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmodaw0kkarjzyo3rlae5z",
+    "name": "明色化粧品",
+    "normalizedName": "明色化粧品",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmqas70kznrjzyvbt7ragu",
+    "name": "ファミュ",
+    "normalizedName": "ファミュ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmqmx20l2orjzytes7rgqm",
+    "name": "フーミー",
+    "normalizedName": "フーミー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmraye0l8prjzynshxuuuo",
+    "name": "&#038;be",
+    "normalizedName": "038be",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmrexb0l9qrjzy3codp2ve",
+    "name": "ベイビーミー",
+    "normalizedName": "ベイビーミー",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmrgz30la9rjzysyuop3du",
+    "name": "Lashiku",
+    "normalizedName": "lashiku",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmsbuj0lggrjzydbesh0mi",
+    "name": "リリミュウ",
+    "normalizedName": "リリミュウ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmsskp0lkbrjzy9urrbnu7",
+    "name": "シャネルクリーム",
+    "normalizedName": "シャネルクリーム",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmswn60llorjzyzmowvwrg",
+    "name": "カネボウ化粧品SENSAI",
+    "normalizedName": "カネボウ化粧品sensai",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmt0yy0lmprjzyatkwntas",
+    "name": "資生堂HAKU",
+    "normalizedName": "資生堂haku",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmt11p0lmwrjzy240idafj",
+    "name": "エクシア",
+    "normalizedName": "エクシア",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmtw0k0ltlrjzyhfj0kbun",
+    "name": "ディー・アップ",
+    "normalizedName": "ディー・アップ",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  },
+  {
+    "id": "cmovmuesm0lygrjzyfqrt1mv9",
+    "name": "haru",
+    "normalizedName": "haru",
+    "isKorean": false,
+    "isDepacos": false,
+    "isPrestige": false,
+    "isPricey": false,
+    "country": null
+  }
+]
