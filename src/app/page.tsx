@@ -52,7 +52,7 @@ export default async function HomePage() {
       <div className="border-b border-navy-100 pb-6">
         <div className="flex items-start justify-between gap-4 flex-wrap">
           <div>
-            <p className="text-[10px] font-semibold uppercase tracking-widest text-navy-400 mb-1">DaiyaCosme Research · Market Intelligence</p>
+            <p className="text-[10px] font-semibold uppercase tracking-widest text-navy-400 mb-1">ダイヤ総研 · 日本コスメアワード評価レポート</p>
             <h1 className="text-2xl font-bold text-navy-900">総合受賞SKUダッシュボード</h1>
             <p className="text-sm text-navy-500 mt-1.5 max-w-xl">
               8大美容アワード × 5年分の受賞データを構造化し、独自スコアで再編集。商品企画・OEM・投資判断に直結するリサーチデータ。
