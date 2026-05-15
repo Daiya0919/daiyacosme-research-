@@ -3,7 +3,7 @@ import "./globals.css";
 import { Nav } from "@/components/nav";
 
 export const metadata: Metadata = {
-  title: "DaiyaCosme Research",
+  title: "ダイヤ総研_日本コスメアワード評価レポート",
   description: "化粧品アワードを再編集し、商品企画・OEM・ブランド投資判断に使うリサーチSaaS。",
 };
 

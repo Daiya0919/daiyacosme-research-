@@ -18,8 +18,8 @@ export function Nav() {
       <div className="container flex h-14 items-center justify-between">
         <Link href="/" className="flex items-center gap-2.5 shrink-0">
           <span className="flex h-7 w-7 items-center justify-center rounded bg-amber-500 text-navy-950 font-black text-xs">DC</span>
-          <span className="font-semibold tracking-tight text-sm hidden sm:block">DaiyaCosme Research</span>
-          <span className="text-[10px] text-navy-300 hidden md:block font-mono">| 化粧品市場リサーチ</span>
+          <span className="font-semibold tracking-tight text-sm hidden sm:block">ダイヤ総研</span>
+          <span className="text-[10px] text-navy-300 hidden md:block font-mono">| 日本コスメアワード評価レポート</span>
         </Link>
         <nav className="flex items-center">
           {NAV.map(({ href, label, icon: Icon }) => {
