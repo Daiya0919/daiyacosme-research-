@@ -1,6 +1,9 @@
 import { NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 
+export const dynamic = "force-dynamic";
+export const maxDuration = 60;
+
 // Vercel Cron から呼ばれる: 毎日 02:00 JST
 // CRON_SECRET 環境変数で保護
 
