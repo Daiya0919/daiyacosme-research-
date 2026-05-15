@@ -73,6 +73,19 @@ model SKU {
   skinTones      String   @default("[]") // JSON配列文字列 ["イエベ春", "ブルベ夏"]
   trendOrClassic String   @default("unknown") // "trend" | "classic" | "both" | "unknown"
 
+  // 拡張フィールド（v2）
+  nameKorean           String?  // 韓国語商品名（韓国ブランド商品のみ）
+  catchCopy            String?  // キャッチコピー・主訴求文
+  effects              String   @default("[]") // 効果効能 JSON配列文字列
+  season               String?  // "summer" | "winter" | "both" | null
+  countryOfManufacture String?  // 製造国 例: "日本" "韓国" "フランス"
+  spf                  Int?     // SPF値（数値のみ）
+  pa                   String?  // "PA+" | "PA++" | "PA+++" | "PA++++"
+  factoryName          String?  // 製造工場名（韓国語商品は韓国語表記）
+  isQuasiDrug          Boolean  @default(false) // 医薬部外品/薬用
+  colorVariations      String   @default("[]") // カラーバリエーション JSON配列
+  lastCrawledAt        DateTime? // 最終クローリング日時
+
   // スコア（0-100）
   awardScore           Float @default(0)
   trendScore           Float @default(0)
