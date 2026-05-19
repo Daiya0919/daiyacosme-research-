@@ -56,6 +56,33 @@ async function main() {
   });
   console.log(`異常価格リセット: ${badPrice.count} 件`);
 
+  // 3. 文字化け catchCopy を NULL にリセット
+  // 置換文字 U+FFFD や Latin-1 のゴミ文字が多いものは Shift-JIS/EUC-JP の誤デコード
+  const allWithCatch = await prisma.sKU.findMany({
+    where: { catchCopy: { not: null } },
+    select: { id: true, catchCopy: true },
+  });
+
+  const mojibakeIds: string[] = [];
+  for (const sku of allWithCatch) {
+    if (!sku.catchCopy) continue;
+    // U+FFFD（置換文字）が含まれる、または全角文字率が極端に低い（ASCII比率が90%超で日本語ゼロ）
+    const hasFFFD = sku.catchCopy.includes("�");
+    // 日本語文字（ひらがな・カタカナ・漢字）がほぼゼロで非ASCII文字が多い → ゴミ
+    const jpCount = (sku.catchCopy.match(/[぀-鿿]/g) ?? []).length;
+    const nonAsciiCount = (sku.catchCopy.match(/[^\x00-\x7F]/g) ?? []).length;
+    const isMojibake = hasFFFD || (nonAsciiCount > 5 && jpCount === 0);
+    if (isMojibake) mojibakeIds.push(sku.id);
+  }
+
+  if (mojibakeIds.length > 0) {
+    await prisma.sKU.updateMany({
+      where: { id: { in: mojibakeIds } },
+      data: { catchCopy: null },
+    });
+  }
+  console.log(`文字化け catchCopy クリア: ${mojibakeIds.length} 件`);
+
   await prisma.$disconnect();
   console.log("完了");
 }
