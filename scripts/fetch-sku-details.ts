@@ -58,7 +58,17 @@ async function fetchHtml(url: string): Promise<string | null> {
       signal: AbortSignal.timeout(10000),
     });
     if (!res.ok) return null;
-    return await res.text();
+
+    // バイト列で受け取り、HTMLのcharset宣言を見て正しいエンコーディングでデコード
+    const buffer = await res.arrayBuffer();
+    const sniff = new TextDecoder("utf-8", { fatal: false }).decode(new Uint8Array(buffer).slice(0, 2000));
+    const charsetMatch = sniff.match(/charset=["']?([\w-]+)/i);
+    const charset = charsetMatch?.[1]?.toLowerCase() ?? "utf-8";
+    const encoding =
+      /shift.?jis|sjis|x-sjis/i.test(charset) ? "shift-jis" :
+      /euc.?jp/i.test(charset)                 ? "euc-jp"    :
+      "utf-8";
+    return new TextDecoder(encoding, { fatal: false }).decode(buffer);
   } catch {
     return null;
   }
