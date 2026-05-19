@@ -1,14 +1,15 @@
 "use client";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { BarChart2, Database, FlaskConical, LayoutDashboard, TrendingUp } from "lucide-react";
+import { BarChart2, BookOpen, Database, FlaskConical, LayoutDashboard, TrendingUp } from "lucide-react";
 
 const NAV = [
-  { href: "/",         label: "ダッシュボード",   icon: LayoutDashboard },
-  { href: "/category", label: "カテゴリ分析",     icon: BarChart2 },
-  { href: "/trends",   label: "トレンド分析",     icon: TrendingUp },
-  { href: "/research", label: "リサーチ実行",     icon: FlaskConical },
-  { href: "/admin",    label: "データ管理",       icon: Database },
+  { href: "/",             label: "ダッシュボード",   icon: LayoutDashboard },
+  { href: "/category",     label: "カテゴリ分析",     icon: BarChart2 },
+  { href: "/trends",       label: "トレンド分析",     icon: TrendingUp },
+  { href: "/methodology",  label: "方法論",           icon: BookOpen },
+  { href: "/research",     label: "リサーチ実行",     icon: FlaskConical },
+  { href: "/admin",        label: "データ管理",       icon: Database },
 ];
 
 export function Nav() {
