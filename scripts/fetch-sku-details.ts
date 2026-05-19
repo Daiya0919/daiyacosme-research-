@@ -24,6 +24,20 @@ import { PrismaClient } from "@prisma/client";
 const prisma = new PrismaClient();
 const DELAY_MS = 1500;
 
+/** HTMLエンティティを文字に戻す */
+function decodeEntities(str: string): string {
+  return str
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&apos;/g, "'")
+    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
+    .replace(/&#x([0-9a-fA-F]+);/gi, (_, h) => String.fromCharCode(parseInt(h, 16)))
+    .replace(/&[a-z]+;/gi, "");
+}
+
 function parseArgs() {
   const args = process.argv.slice(2);
   const limit  = parseInt(args.find((a) => a.startsWith("--limit="))?.split("=")[1]  ?? "100");
@@ -68,7 +82,7 @@ function extractAtcosme(html: string, skuName: string) {
 
   // キャッチコピー（商品説明の冒頭）
   const catchMatch = html.match(/<meta name="description" content="([^"]{10,200})"/);
-  if (catchMatch) result.catchCopy = catchMatch[1].replace(/\s+/g, " ").trim();
+  if (catchMatch) result.catchCopy = decodeEntities(catchMatch[1].replace(/\s+/g, " ").trim());
 
   // 医薬部外品
   if (/医薬部外品|薬用/.test(html)) result.isQuasiDrug = true;
@@ -134,9 +148,11 @@ function extractRakuten(html: string) {
     countryOfManufacture: string;
   }> = {};
 
-  // 価格
-  const priceMatch = html.match(/(\d{3,6})(?:円|<\/span>)/);
-  if (priceMatch) result.price = parseInt(priceMatch[1].replace(/,/g, ""));
+  // 価格: カンマ区切り対応・500円未満は誤抽出とみなす
+  const priceMatches = [...html.matchAll(/([\d,]{3,8})\s*(?:円|税込)/g)]
+    .map((m) => parseInt(m[1].replace(/,/g, "")))
+    .filter((p) => p >= 500 && p <= 150000);
+  if (priceMatches.length > 0) result.price = priceMatches[0];
 
   // 画像
   const imgMatch = html.match(/thumbnail\.image\.rakuten\.co\.jp\/[^"']+\.jpg/);
@@ -144,7 +160,7 @@ function extractRakuten(html: string) {
 
   // キャッチコピー
   const descMatch = html.match(/<meta name="description" content="([^"]{10,200})"/);
-  if (descMatch) result.catchCopy = descMatch[1].replace(/\s+/g, " ").trim();
+  if (descMatch) result.catchCopy = decodeEntities(descMatch[1].replace(/\s+/g, " ").trim());
 
   // 医薬部外品
   if (/医薬部外品|薬用/.test(html)) result.isQuasiDrug = true;

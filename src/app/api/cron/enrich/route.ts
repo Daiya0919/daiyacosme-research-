@@ -11,6 +11,19 @@ const DELAY_MS = 1200;
 
 async function sleep(ms: number) { return new Promise((r) => setTimeout(r, ms)); }
 
+function decodeEntities(str: string): string {
+  return str
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&apos;/g, "'")
+    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
+    .replace(/&#x([0-9a-fA-F]+);/gi, (_, h) => String.fromCharCode(parseInt(h, 16)))
+    .replace(/&[a-z]+;/gi, "");
+}
+
 async function fetchHtml(url: string): Promise<string | null> {
   try {
     const res = await fetch(url, {
@@ -41,7 +54,7 @@ function extractFromHtml(html: string, skuName: string) {
   if (countryMatch) patch.countryOfManufacture = countryMatch[1].trim();
 
   const descMatch = html.match(/<meta name="description" content="([^"]{10,200})"/);
-  if (descMatch) patch.catchCopy = descMatch[1].replace(/\s+/g, " ").trim();
+  if (descMatch) patch.catchCopy = decodeEntities(descMatch[1].replace(/\s+/g, " ").trim());
 
   const text = skuName + " " + html.slice(0, 2000);
   const isSummer = /UV|日焼け止め|サンスクリーン|夏|冷感|さっぱり/.test(text);
