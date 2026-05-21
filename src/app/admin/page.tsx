@@ -46,27 +46,44 @@ export default async function AdminPage() {
           <Card>
             <CardContent className="pt-4 overflow-x-auto">
               <table className="w-full text-sm">
-                <thead className="text-zinc-500 text-xs">
-                  <tr className="border-b">
-                    <th className="text-left p-2">SKU</th>
-                    <th className="text-left p-2">ブランド</th>
-                    <th className="text-left p-2">カテゴリ</th>
-                    <th className="text-right p-2">受賞</th>
-                    <th className="text-right p-2">スコア</th>
-                    <th className="text-left p-2">判定</th>
-                    <th className="text-left p-2"></th>
+                <thead className="text-navy-400 text-xs bg-navy-50">
+                  <tr className="border-b border-navy-100">
+                    <th className="text-left py-2 px-3">SKU</th>
+                    <th className="text-left py-2 px-3">ブランド</th>
+                    <th className="text-left py-2 px-3">カテゴリ</th>
+                    <th className="text-left py-2 px-3 max-w-[240px]">キャッチコピー</th>
+                    <th className="text-right py-2 px-3">価格</th>
+                    <th className="text-center py-2 px-3">医薬</th>
+                    <th className="text-right py-2 px-3">受賞</th>
+                    <th className="text-right py-2 px-3">スコア</th>
+                    <th className="text-left py-2 px-3">判定</th>
+                    <th className="text-left py-2 px-3"></th>
                   </tr>
                 </thead>
                 <tbody>
                   {skus.map((s) => (
-                    <tr key={s.id} className="border-b hover:bg-zinc-50">
-                      <td className="p-2"><a className="font-medium hover:underline" href={`/sku/${s.id}`}>{s.name}</a> {s.needsReview && <Badge variant="warn">要確認</Badge>}</td>
-                      <td className="p-2">{s.brand.name}</td>
-                      <td className="p-2">{s.category.name}</td>
-                      <td className="p-2 text-right">{s.awardResults.length}</td>
-                      <td className="p-2 text-right font-bold text-rose-600">{Math.round(s.totalScore)}</td>
-                      <td className="p-2">{s.trendOrClassic}</td>
-                      <td className="p-2"><a href={`/sku/${s.id}`} className="text-xs text-rose-600 hover:underline">詳細</a></td>
+                    <tr key={s.id} className="border-b border-navy-50 hover:bg-navy-50/50">
+                      <td className="py-2 px-3 max-w-[180px]">
+                        <a className="font-medium text-navy-900 hover:text-amber-600 hover:underline transition-colors line-clamp-1" href={`/sku/${s.id}`}>{s.name}</a>
+                        {s.needsReview && <Badge variant="warn" className="ml-1">要確認</Badge>}
+                      </td>
+                      <td className="py-2 px-3 text-xs text-navy-500 whitespace-nowrap">{s.brand.name}</td>
+                      <td className="py-2 px-3 text-xs text-navy-500 whitespace-nowrap">{s.category.name}</td>
+                      <td className="py-2 px-3 max-w-[240px]">
+                        {s.catchCopy
+                          ? <span className="text-xs text-navy-600 line-clamp-2 leading-relaxed">{s.catchCopy}</span>
+                          : <span className="text-xs text-navy-200">—</span>}
+                      </td>
+                      <td className="py-2 px-3 text-right text-xs font-mono tabular-nums text-navy-700 whitespace-nowrap">
+                        {s.price ? `¥${s.price.toLocaleString()}` : <span className="text-navy-200">—</span>}
+                      </td>
+                      <td className="py-2 px-3 text-center">
+                        {s.isQuasiDrug && <span className="text-[10px] bg-purple-100 text-purple-700 rounded px-1 py-0.5 font-semibold">医薬</span>}
+                      </td>
+                      <td className="py-2 px-3 text-right text-xs tabular-nums text-navy-600">{s.awardResults.length}</td>
+                      <td className="py-2 px-3 text-right font-bold tabular-nums text-amber-600">{Math.round(s.totalScore)}</td>
+                      <td className="py-2 px-3 text-xs text-navy-400">{s.trendOrClassic}</td>
+                      <td className="py-2 px-3"><a href={`/sku/${s.id}`} className="text-xs text-amber-600 hover:underline font-medium">詳細</a></td>
                     </tr>
                   ))}
                 </tbody>
